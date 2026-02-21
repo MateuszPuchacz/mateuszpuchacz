@@ -4,7 +4,7 @@ I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headq
 
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
-### 🔍 What I do
+###  What I do
 
 - Extract, clean and transform data (Power Query)
 - Build reporting structures and dashboards
@@ -15,12 +15,12 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 
 I work closely with the French headquarters, analyzing cross-border supply performance and ensuring data consistency across markets.
 
-### 📊 My focus
+### My focus
 
 I design reporting tools that help commercial teams monitor KPIs, control profitability and improve operational efficiency.  
 I continuously standardize and automate reporting processes to reduce manual work and increase analytical clarity.
 
-### 🚀 Currently developing
+### Currently developing
 
 I’m expanding my technical skill set in:
 
