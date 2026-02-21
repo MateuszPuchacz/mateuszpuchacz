@@ -2,7 +2,7 @@
 
 I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
 
-In practice, my role is fully analytical — 100% of my work is based on data supporting around 65 hypermarkets nationwide.
+In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
 ### 🔍 What I do
 
