@@ -31,7 +31,7 @@ I’m expanding my technical skill set in:
 
 My goal is to fully transition into a Data Analyst role, combining strong business understanding with technical data expertise.
 
-📫 How to reach me: [Linkedin](www.linkedin.com/in/mateusz-puchacz-a183761b3)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mateusz-puchacz-a183761b3/)
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
