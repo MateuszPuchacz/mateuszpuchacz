@@ -11,9 +11,9 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 - Analyze sales performance, margins and product rotation
 - Optimize inventory levels to reduce overstock and stockouts
 - Evaluate promotion performance and business impact
-- Maintain weekly reporting used for real-time decision making
+- Maintain weekly reporting used for real time decision making
 
-I work closely with the French headquarters, analyzing cross-border supply performance and ensuring data consistency across markets.
+I work closely with the French headquarters, analyzing cross border supply performance and ensuring data consistency across markets.
 
 ### My focus
 
@@ -31,6 +31,7 @@ I’m expanding my technical skill set in:
 
 My goal is to fully transition into a Data Analyst role, combining strong business understanding with technical data expertise.
 
+📫 How to reach me: [Linkedin](www.linkedin.com/in/mateusz-puchacz-a183761b3)
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
