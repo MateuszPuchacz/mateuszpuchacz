@@ -17,8 +17,9 @@ I work closely with the French headquarters, analyzing cross border supply perfo
 
 ### My focus
 
-I design reporting tools that help commercial teams monitor KPIs, control profitability and improve operational efficiency.  
-I continuously standardize and automate reporting processes to reduce manual work and increase analytical clarity.
+I design and develop reporting solutions that help commercial teams track KPIs and manage profitability.
+Beyond dashboard creation, I concentrate on data validation, standardization, and modeling. I work on reconciling inconsistencies, handling missing data, and building scalable data models that ensure analytical accuracy.
+For me, robust data foundations are more important than visuals, because without clean and structured data, insights lose their value.
 
 ### Currently developing
 
