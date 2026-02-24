@@ -18,7 +18,7 @@ I work closely with the French headquarters, analyzing cross border supply perfo
 ### My focus
 
 I design and develop reporting solutions that help commercial teams track KPIs and manage profitability.
-Beyond dashboard creation, I concentrate on data validation, standardization, and modeling. I work on reconciling inconsistencies, handling missing data, and building scalable data models that ensure analytical accuracy.
+Beyond dashboard creation in first step I concentrate on data validation, standardization, and modeling. I work on reconciling inconsistencies, handling missing data, and building scalable data models that ensure analytical accuracy.
 For me, robust data foundations are more important than visuals, because without clean and structured data, insights lose their value.
 
 ### Currently developing
