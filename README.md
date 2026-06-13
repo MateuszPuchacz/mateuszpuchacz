@@ -1,14 +1,26 @@
 ## Hi there 👋
 
 
-<h1 align="center">Hi, I'm Mateusz 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=70&lines=Data+Analyst;Retail+Analytics+Specialist;Supply+Chain+Analytics;Power+Query+Automation;Power+BI+%7C+SQL+%7C+Excel" alt="Typing SVG" />
-</p>
+# Hi, I'm Mateusz 👋
 
-<h3 align="center">Transforming data into business decisions</h3>
----
+### Data Analyst | Retail Analytics | Business Intelligence
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=70&lines=Transforming+Data+Into+Business+Decisions;Retail+Analytics+Specialist;Supply+Chain+Analytics;Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics" alt="Typing SVG" />
+
+<br>
+
+Transforming millions of retail records into actionable business insights.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Retail_Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=36BCF7"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Supply_Chain-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+<img src="https://img.shields.io/badge/Reporting_Automation-0D1117?style=for-the-badge&logo=zapier&logoColor=36BCF7"/>
+
+</div>
 
 ---
 
