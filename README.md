@@ -85,17 +85,3 @@ Profitability Management
 > Strong business decisions require clean, structured and trustworthy data.
 
 
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Sales_Analysis-36BCF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Inventory_Analysis-1E3A8A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Margin_Analysis-217346?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power_Query_ETL-742774?style=for-the-badge"/>
-</p>
-
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mateuszpuchacz/mateuszpuchacz/output/github-contribution-grid-snake.svg">
-</p>
