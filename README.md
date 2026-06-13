@@ -12,6 +12,43 @@
   📊 Data Analytics • ⚙️ Automation • 💡 Business Intelligence
 </h3>
 
+
+
+<div align="center">
+
+<h2>📊 Data Analytics • ⚙️ Automation • 🛒 Retail Intelligence</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=700&color=36BCF7&center=true&vCenter=true&width=1050&lines=Building+data-driven+solutions;Automating+reports+and+business+processes;Transforming+raw+data+into+business+value;Supporting+65%2B+hypermarkets+through+analytics;Turning+complex+data+into+clear+decisions" />
+
+</div>
+
+
+<div align="center">
+
+<h2>SELECT * FROM data_career;</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=700&color=36BCF7&center=true&vCenter=true&width=1000&lines=role+%3D+Data+Analytics;focus+%3D+Business+Intelligence;toolkit+%3D+SQL+%2B+Power+BI+%2B+Power+Query;mission+%3D+Turning+data+into+decisions;scale+%3D+65%2B+hypermarkets" />
+
+</div>
+
+
+<div align="center">
+
+<h2>📊 Data Analytics • ⚙️ Automation • 🧠 Business Intelligence</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=700&color=36BCF7&center=true&vCenter=true&width=950&lines=%3E+Building+data-driven+solutions;%3E+Automating+reports+and+business+processes;%3E+Transforming+raw+data+into+business+value;%3E+Supporting+65%2B+hypermarkets+through+analytics;%3E+Turning+complex+data+into+clear+decisions" />
+
+</div>
+
+
+
+
+
+
+
+
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=1050&lines=Building+data+driven+solutions;Automating+reports+and+business+processes;Transforming+raw+data+into+business+value;Supporting+65%2B+hypermarkets+through+analytics;Turning+complex+data+into+clear+decisions" />
 
 
