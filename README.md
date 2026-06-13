@@ -1,82 +1,32 @@
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/65+-Hypermarkets-36BCF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/1M+-Records%2FWeek-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-Power%20Query-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Business%20Intelligence-0D1117?style=for-the-badge"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Mateusz%20Puchacz&fontSize=40&fontColor=FFFFFF&fontAlignY=35"/>
 
-</p>
-  
-  <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
-
-<h3>Data Analyst | BI Developer in Progress | Retail Analytics</h3>
+<h3>Data Analyst • Business Intelligence • Retail Analytics</h3>
 
 <p>
-I work with retail data at scale, supporting analytical processes for 65+ hypermarkets across Poland.
-My focus is on turning raw business data into clean reporting structures, KPI dashboards and decision-support tools.
+Turning raw business data into actionable insights.
 </p>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I am currently working in a highly analytical retail role, where most of my daily work is based on data, reporting and business decision support.
+<img src="https://img.shields.io/badge/65+-Hypermarkets-36BCF7?style=for-the-badge"/>
 
-My main focus areas:
+<img src="https://img.shields.io/badge/1M+-Records%2FWeek-1E3A8A?style=for-the-badge"/>
 
-- Retail analytics
-- Sales and inventory analysis
-- Power Query ETL
-- KPI reporting
-- Dashboard development
-- Data quality validation
-- Business Intelligence
-- SQL, Power BI and DAX development
+<img src="https://img.shields.io/badge/Power_Query-ETL-217346?style=for-the-badge"/>
 
-I am actively developing my technical skill set to move deeper into data analytics, BI development and analytics engineering.
+<img src="https://img.shields.io/badge/Focus-Business_Intelligence-0D1117?style=for-the-badge"/>
 
----
+</div>
 
-## Retail Analytics at Scale
 
-My current work is focused on analyzing sales, stock, deliveries and product performance across a large retail network.
 
-Key analytical areas:
-
-- Weekly sales and stock performance analysis
-- Sell-through / resale % monitoring
-- Weeks of Stock analysis
-- Margin and profitability tracking
-- Delivery and replenishment analysis
-- Store and product-level performance comparison
-- YoY analysis
-- Promotion and assortment performance review
-
-Scale of work:
-
-- 65+ hypermarkets supported
-- 1M+ retail records processed weekly
-- Multiple data sources combined into analytical models
-- Automated reporting workflows replacing manual Excel processes
-- Reports used for operational and commercial decision-making
-
----
-
-## What I Do With Data
-
-- Extract, clean and transform raw data
-- Build reusable reporting structures
-- Automate repetitive Excel workflows with Power Query
-- Create PivotTable-based dashboards and KPI views
-- Validate data quality and detect inconsistencies
-- Analyze business performance by store, category, product and season
-- Translate business problems into analytical logic
-- Support decision-making with clear insights and recommendations
-
+🚀 Tech Stack
 
 <p align="left">
 
