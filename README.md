@@ -4,40 +4,41 @@ I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headq
 
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
+<!-- ======================= DATA ANALYTICS HEADER ======================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,25:1E3A8A,50:36BCF7,75:5B86E5,100:7F5AF0&text=DATA%20ANALYTICS&fontColor=FFFFFF&fontSize=65&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Retail%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Supply%20Chain&descSize=20&descAlign=50&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,35:1E3A8A,70:36BCF7,100:7F5AF0&text=DATA%20ANALYTICS&fontColor=FFFFFF&fontSize=68&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Business%20Intelligence%20%7C%20Retail%20Analytics%20%7C%20Supply%20Chain&descSize=20&descAlign=50&descAlignY=63"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=32&duration=2400&pause=900&color=36BCF7&center=true&vCenter=true&width=1200&height=80&lines=Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Retail+Performance+Insights;Supply+Chain+Optimization;Data-Driven+Decision+Making"/>
+
+### Transforming complex data into clear business decisions
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1200&height=80&lines=Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Retail+Performance+Insights;Supply+Chain+Optimization;Data-Driven+Decision+Making"/>
-
-<br>
-
-### 📊 Transforming Complex Data Into Actionable Business Insights
-
-<br>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Retail_Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=36BCF7"/>
+<img src="https://img.shields.io/badge/Supply_Chain-0D1117?style=for-the-badge&logo=databricks&logoColor=36BCF7"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Reporting_Automation-0D1117?style=for-the-badge&logo=zapier&logoColor=FF4A00"/>
 
 <br><br>
 
-📈 KPI Dashboards &nbsp;&nbsp;•&nbsp;&nbsp;
-⚡ Reporting Automation &nbsp;&nbsp;•&nbsp;&nbsp;
-📦 Supply Chain Analytics &nbsp;&nbsp;•&nbsp;&nbsp;
-🏪 Retail Analytics &nbsp;&nbsp;•&nbsp;&nbsp;
-🧠 Business Intelligence
+<table>
+  <tr>
+    <td align="center"><b>📊 KPI Dashboards</b></td>
+    <td align="center"><b>⚡ ETL Automation</b></td>
+    <td align="center"><b>📦 Stock & Deliveries</b></td>
+    <td align="center"><b>📈 Business Insights</b></td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mateusz630p&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:7F5AF0,50:36BCF7,100:0D1117&section=footer"/>
 
 </div>
 
+<!-- ======================= END HEADER ======================= -->
 ---
 ```
 
