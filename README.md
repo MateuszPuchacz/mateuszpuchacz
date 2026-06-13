@@ -57,45 +57,64 @@ Turning raw business data into actionable insights.
 
 
 
-## 📊 Data Analytics & Business Intelligence
 
-Building analytical solutions that transform complex business data into actionable insights.
 
-Currently working with large-scale retail datasets supporting **65+ hypermarkets**, focusing on data transformation, reporting automation, KPI monitoring and business intelligence.
+
+
+
+
+
+
+## 📊 Retail Analytics & Business Intelligence
+
+Currently working with large-scale retail data supporting **65+ hypermarkets** across Poland.
+
+My daily work combines business understanding, data transformation and analytical reporting used in operational and commercial decision-making.
+
+### What I Do
+
+- Extract, clean and transform retail data using Power Query
+- Build reporting structures and KPI dashboards
+- Analyze sales, inventory, margin and product performance
+- Validate data quality and reconcile inconsistencies
+- Support inventory and replenishment decisions
+- Deliver reporting used by local and international stakeholders
+
+### Areas of Focus
 
 <table>
 <tr>
 
 <td width="33%">
 
-### Data
+#### Data
 
 SQL  
+Power Query  
 Data Modeling  
-Data Quality  
-ETL
+Data Validation
 
 </td>
 
 <td width="33%">
 
-### Analytics
+#### Analytics
 
 Business Intelligence  
 KPI Reporting  
 Trend Analysis  
-Forecasting
+Performance Monitoring
 
 </td>
 
 <td width="33%">
 
-### Development
+#### Retail
 
-Power Query  
-Power BI  
-DAX  
-Python
+Sales Analytics  
+Inventory Analytics  
+Margin Analysis  
+Supply Analytics
 
 </td>
 
@@ -104,7 +123,18 @@ Python
 
 <br>
 
+<p align="center">
 
-### Transform data into decisions.
+<img src="https://img.shields.io/badge/65+-Hypermarkets-36BCF7?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/1M+-Records%2FWeek-1E3A8A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-ETL-217346?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI-Reporting-F2C811?style=for-the-badge"/>
+
+</p>
+
+> Passionate about transforming raw business data into actionable insights.
+
+
