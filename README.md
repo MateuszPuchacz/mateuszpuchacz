@@ -31,9 +31,6 @@ Turning data into business decisions
   📦 Supply Chain Analytics &nbsp;&nbsp;|&nbsp;&nbsp;
   ⚡ Power Query Automation &nbsp;&nbsp;|&nbsp;&nbsp;
   📈 Business Intelligence
-</p>
-
-<br>
 
 <!-- TU DODASZ STACK TECHNOLOGICZNY -->
 
@@ -136,6 +133,9 @@ oft-sql-server.png" width="55"/>
 - Business Intelligence
 - SQL Data Analysis
 ```
+</p>
+
+<br>
 
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
