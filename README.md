@@ -4,8 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
 <h3 align="center">
 
-currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
-In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
+
+Data Analyst focused on retail analytics, business intelligence and reporting automation.
+
+Currently supporting analytical processes for 65+ hypermarkets while developing expertise in SQL, Power BI, DAX and data modeling.
+
+Interested in transforming raw business data into scalable reporting and decision-support systems.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:36BCF7,50:1E3A8A,100:0D1117"/>
 
