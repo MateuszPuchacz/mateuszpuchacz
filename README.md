@@ -65,7 +65,7 @@ Currently developing my skills in **SQL, Power BI, DAX and Data Modeling**, with
 
 
 
-## 💾 explain_my_job.sql
+## 💾 current_role.sql
 
 ```sql
 SELECT
