@@ -1,62 +1,62 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,35:1E3A8A,70:217346,100:36BCF7&section=header"/>
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-
-### 📊 Analytics
-Sales • Margin • Stock
-
-</td>
-<td align="center" width="33%">
-
-### ⚡ Automation
-Power Query • Reporting
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 BI
-KPI • Insights • Decisions
-
-</td>
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,25:1E3A8A,50:36BCF7,75:217346,100:0D1117&text=RETAIL%20ANALYTICS&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=30&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Retail+Data+Analytics;Supply+Chain+Business+Intelligence;Power+Query+Automation;Turning+Retail+Data+Into+Decisions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Sales+Analytics+%7C+Inventory+Optimization+%7C+Margin+Control;Power+Query+ETL+%7C+Business+Intelligence+%7C+KPI+Reporting;Turning+Retail+Data+Into+Actionable+Business+Insights"/>
 
 <br><br>
 
 <table>
 <tr>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/65%2B-Hypermarkets-0D1117?style=for-the-badge&labelColor=1E3A8A"/>
+
+<td align="center" width="250">
+
+### 📈 Commercial
+
+Sales Analysis  
+Margin Monitoring  
+Promotion Performance
+
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/Sales-Margin-0D1117?style=for-the-badge&labelColor=217346"/>
+
+<td align="center" width="250">
+
+### 📦 Inventory
+
+Stock Coverage  
+Product Rotation  
+Overstock Detection
+
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/Inventory-Reporting-0D1117?style=for-the-badge&labelColor=36BCF7"/>
+
+<td align="center" width="250">
+
+### ⚡ Analytics
+
+Power Query ETL  
+Dashboarding  
+Decision Support
+
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/BI-Decision%20Support-0D1117?style=for-the-badge&labelColor=1E3A8A"/>
-</td>
+
 </tr>
 </table>
 
 <br>
 
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:36BCF7,50:217346,100:1E3A8A"/>
+<img src="https://img.shields.io/badge/65%2B-Hypermarkets-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1M%2B-Records%20Analyzed-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retail-Business%20Intelligence-36BCF7?style=for-the-badge&logo=powerbi&logoColor=white"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:36BCF7,25:1E3A8A,50:217346,75:36BCF7,100:0D1117"/>
 
 </div>
-
-<br>
-
+```
 
 
 ---
