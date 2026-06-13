@@ -59,7 +59,37 @@ Beyond my current role, I'm continuously developing my skills in **SQL, Power BI
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="130%"/>
+table>
+<tr>
+<td width="55%" valign="top">
+
+<h2>🚀 About Me</h2>
+
+<p>
+Currently working in a highly analytical retail role supporting <b>65+ hypermarkets</b> across Poland.
+</p>
+
+<p>
+My daily work focuses on transforming raw business data into reporting solutions, KPI monitoring and decision support tools.
+</p>
+
+<p>
+Beyond my current role, I'm developing my skills in <b>SQL, Power BI, DAX and Data Modeling</b>, building projects that move me closer to a full-time <b>Data Analyst / BI Analyst</b> career path.
+</p>
+
+<p>
+<b>Passionate about analytics, automation and turning data into business value.</b>
+</p>
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="260"/>
+
+</td>
+</tr>
+</table>
 
 </td>
 
