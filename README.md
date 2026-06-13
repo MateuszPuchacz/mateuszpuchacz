@@ -46,12 +46,11 @@
 
 <h3>🚀 About Me</h3>
 
-Currently working in a highly analytical retail role supporting <b>65+ hypermarkets</b> across Poland.
+### 🚀 About Me
 
-My daily work focuses on transforming raw business data into reporting solutions, KPI monitoring and decision support tools.
-
-Beyond my current role, I'm continuously developing my skills in <b>SQL, Power BI, DAX and Data Modeling</b>, building projects that move me closer to a full-time <b>Data Analyst / BI Analyst</b> career path.
-
+Supporting **65+ hypermarkets** through data-driven analysis, KPI reporting and business intelligence solutions.
+Focused on transforming raw data into actionable insights using Power Query, SQL and analytical thinking.
+Currently developing my skills in **SQL, Power BI, DAX and Data Modeling**, with a clear goal of growing into a full-time **Data Analyst / BI Analyst** role.
 <b>Passionate about analytics, automation and turning data into business value.</b>
 
 </td>
