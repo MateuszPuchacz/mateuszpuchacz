@@ -16,26 +16,46 @@ ELSE
 SELECT actual_daily_work
 FROM reality;
 
-+------------------------------------------+
-| actual_daily_work                        |
-+------------------------------------------+
-| Power Query ETL                          |
-| Sales Analytics                          |
-| Inventory Analytics                      |
-| Margin Reporting                         |
-| KPI Monitoring                           |
-| Dashboard Development                    |
-| Data Validation                          |
-+------------------------------------------+
++--------------------------------------------------+
+| actual_daily_work                                |
++--------------------------------------------------+
+| Extracting data from multiple business sources   |
+| Cleaning and transforming raw datasets           |
+| Power Query ETL                                  |
+| Data validation and quality checks               |
+| Building reporting structures                    |
+| KPI monitoring and performance tracking          |
+| Sales analytics                                  |
+| Inventory analytics                              |
+| Margin analysis                                  |
+| Product performance analysis                     |
+| Dashboard development                            |
+| Reporting automation                             |
+| Business intelligence                            |
+| Data modeling                                    |
+| Forecast and trend analysis                      |
+| Cross-functional decision support                |
++--------------------------------------------------+
+
+SELECT stakeholders
+FROM business_environment;
+
++--------------------------------------------------+
+| stakeholders                                     |
++--------------------------------------------------+
+| Commercial Teams                                 |
+| Supply Chain Teams                               |
+| Store Coordinators                               |
+| French Headquarters                              |
++--------------------------------------------------+
 
 SELECT conclusion;
 
-+------------------------------------------+
-| conclusion                               |
-+------------------------------------------+
-| Data Analyst trapped in a Supply Manager |
-| job title                                |
-+------------------------------------------+
++--------------------------------------------------+
+| conclusion                                       |
++--------------------------------------------------+
+| Data Analyst trapped in a Supply Manager title   |
++--------------------------------------------------+
 ```
 
 
