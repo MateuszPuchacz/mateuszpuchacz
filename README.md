@@ -36,7 +36,48 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
+## 💾 current_role.sql
 
+```sql
+SELECT
+    'Supply Manager'                    AS role_title,
+    'Retail Data Analyst'               AS actual_role,
+    '65+ Hypermarkets'                  AS business_scope,
+    '1M+ Records Weekly'                AS data_volume;
+
+SELECT responsibility
+FROM daily_work
+WHERE responsibility IN
+(
+    'Data Extraction',
+    'Data Cleaning',
+    'Data Transformation',
+    'Power Query ETL',
+    'Data Validation',
+    'Data Modeling',
+    'KPI Reporting',
+    'Sales Analytics',
+    'Inventory Analytics',
+    'Margin Analysis',
+    'Dashboard Development',
+    'Reporting Automation',
+    'Business Intelligence'
+);
+
+SELECT stakeholder
+FROM business_environment
+WHERE stakeholder IN
+(
+    'Commercial Teams',
+    'Supply Chain Teams',
+    'Store Coordinators',
+    'French Headquarters'
+);
+
+SELECT
+    'Turning Retail Data Into Business Decisions'
+AS mission;
+```
 
 <table>
 <tr>
