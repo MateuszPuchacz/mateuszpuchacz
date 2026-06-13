@@ -6,18 +6,35 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 
 <div align="center">
 
-# 📊 Data Analytics & Business Intelligence
+<img width="100%" src="assets/data-analytics-banner.png" alt="Data Analytics Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=1100&height=70&lines=Retail+Analytics;Supply+Chain+Analytics;Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Data-Driven+Decision+Making"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=32&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=1200&height=80&lines=Retail+Analytics;Supply+Chain+Analytics;Power+Query+Automation;Power+BI+Dashboards;SQL+%26+Business+Intelligence;Data-Driven+Decision+Making"/>
 
 ### Transforming complex data into clear business decisions
 
 <br>
 
-<b>Retail Analytics</b> • <b>Supply Chain</b> • <b>BI Dashboards</b> • <b>Reporting Automation</b>
+<img src="https://img.shields.io/badge/Retail_Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=36BCF7"/>
+<img src="https://img.shields.io/badge/Supply_Chain-0D1117?style=for-the-badge&logo=databricks&logoColor=36BCF7"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Reporting_Automation-0D1117?style=for-the-badge&logo=zapier&logoColor=FF4A00"/>
+
+<br><br>
+
+<table>
+  <tr>
+    <td align="center"><b>📊 KPI Dashboards</b></td>
+    <td align="center"><b>⚡ ETL Automation</b></td>
+    <td align="center"><b>📦 Stock & Deliveries</b></td>
+    <td align="center"><b>📈 Business Insights</b></td>
+  </tr>
+</table>
 
 </div>
 
+---
 ---
 
 
