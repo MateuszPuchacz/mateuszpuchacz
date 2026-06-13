@@ -3,33 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2200&pause=800&color=36BCF7&center=true&vCenter=true&width=1400&height=80&lines=%F0%9F%93%8A+Analyzing+Millions+of+Retail+Records;%F0%9F%93%A6+Supply+Chain+Optimization;%E2%9A%A1+Power+Query+Automation;%F0%9F%93%88+Power+BI+Dashboards;%F0%9F%97%84%EF%B8%8F+SQL+Analytics;%F0%9F%92%A1+Turning+Data+Into+Business+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1400&height=80&lines=%F0%9F%93%8A+Retail+Analytics+and+Business+Insights;%F0%9F%93%A6+Supply+Chain+and+Inventory+Optimization;%E2%9A%A1+Automating+Data+Processes+with+Power+Query;%F0%9F%93%88+Building+Executive+Power+BI+Dashboards;%F0%9F%97%84%EF%B8%8F+Transforming+Data+with+SQL+Analytics;%F0%9F%92%A1+Supporting+Data-Driven+Business+Decisions" />
 </p>
-<!-- ======================= PREMIUM ANALYTICS HEADER ======================= -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,45:1E3A8A,100:0D1117&section=header&animation=fadeIn"/>
-
-<h1>
-  Turning Data Into Business Decisions
-</h1>
-
-<p>
-  <b>Retail Analytics</b> • <b>Supply Chain Analytics</b> • <b>Business Intelligence</b>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=1400&height=80&lines=%F0%9F%93%8A+Analyzing+Millions+of+Retail+Records;%F0%9F%93%A6+Optimizing+Stock+%26+Deliveries;%E2%9A%A1+Automating+Power+Query+Workflows;%F0%9F%93%88+Building+Power+BI+Dashboards;%F0%9F%97%84%EF%B8%8F+Writing+SQL+Analytics;%F0%9F%92%A1+Turning+KPIs+Into+Business+Actions" alt="Typing SVG" />
-
-<br>
-
-<p>
-  Excel • Power Query • Power BI • SQL • KPI Reporting • Process Automation
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&color=0:0D1117,45:1E3A8A,100:36BCF7&section=footer"/>
-
-</div>
 
 ---
 
