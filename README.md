@@ -68,7 +68,7 @@ Turning raw business data into actionable insights.
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MateuszPuchacz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszPuchacz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MateuszPuchacz&theme=tokyonight&hide_border=true"/>
 
 </div>
 
