@@ -22,9 +22,9 @@
 <p align="left">
 
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square"/>
 <img src="https://img.shields.io/badge/ETL-0D1117?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
