@@ -104,20 +104,7 @@ Python
 
 <br>
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/65+-Hypermarkets-36BCF7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/1M+-Records%2FWeek-1E3A8A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_Query-ETL-217346?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Focus-Business_Intelligence-0D1117?style=for-the-badge"/>
-
-</p>
-
-<div align="center">
-
-### Turning data into decisions.
+### Transform data into decisions.
 
 </div>
