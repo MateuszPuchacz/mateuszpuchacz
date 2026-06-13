@@ -90,45 +90,6 @@ Technical_direction:
   - Data Modeling
   - Analytics Engineering
 ```
----
-
-
-
-### 📈 Power BI Sales Dashboard
-
-Interactive Power BI report focused on sales performance, revenue trends, YoY analysis and executive-level insights.
-
-**Main areas:**  
-Power BI • DAX • Data Modeling • Business Intelligence
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚙️ Reporting Automation
-
-Excel and Power Query based reporting workflow designed to reduce manual work and improve reporting consistency.
-
-**Main areas:**  
-Power Query • ETL • Data Validation • Process Automation
-
-</td>
-<td width="50%">
-
-### 📉 KPI Performance Reporting
-
-Analytical reporting structure focused on tracking commercial performance and supporting operational decisions.
-
-**Main areas:**  
-KPI Design • Dashboarding • Trend Analysis • Decision Support
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📌 What I Build
 
