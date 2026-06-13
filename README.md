@@ -8,6 +8,7 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:36BCF7,50:1E3A8A,100:0D1117"/>
 
+
 ## 📊 Retail Data Analytics & Reporting
 
 <p>
@@ -89,45 +90,67 @@ Decision support
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:1E3A8A,100:36BCF7"/>
 
+## 🛠️ Data Analytics Stack
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Currently Developing
+
+- SQL for analytical querying
+- Power BI dashboard development
+- Data modeling for reporting solutions
+- DAX measures and KPI calculations
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Career Direction
 
 I’m continuously expanding my analytical toolkit to combine strong retail business expertise with modern data analytics and BI technologies.
 
-> Strong business decisions require clean, structured and trustworthy data.
-
----
 My goal is to fully transition into a Data Analyst role, combining strong business understanding with technical data expertise.
 
-📫 **LinkedIn:** [Mateusz Puchacz](https://www.linkedin.com/in/mateusz-puchacz/)
+</td>
+</tr>
+</table>
 
-<h2>🛠️ Data Analytics Stack</h2>
+## 📌 Business Areas
 
-<p align="left">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<table>
+<tr>
+<td width="20%" align="center"><b>Sales</b><br>Performance</td>
+<td width="20%" align="center"><b>Margin</b><br>Profitability</td>
+<td width="20%" align="center"><b>Stock</b><br>Availability</td>
+<td width="20%" align="center"><b>Promotion</b><br>Impact</td>
+<td width="20%" align="center"><b>Reporting</b><br>Automation</td>
+</tr>
+</table>
+
+<p align="center">
+  📫 <b>LinkedIn:</b> 
+  <a href="https://www.linkedin.com/in/mateusz-puchacz/">Mateusz Puchacz</a>
 </p>
-
-oft-sql-server.png" width="55"/>
-
-
-
-### Core Competencies
-
-- Retail Analytics
-- Supply Chain Analytics
-- Power Query Automation
-- Dashboard Development
-- Business Intelligence
-- SQL Data Analysis
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
 
-</div>
+
+
+
+
+
+
 
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
