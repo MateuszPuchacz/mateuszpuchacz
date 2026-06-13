@@ -11,7 +11,7 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 
 ## What I Do
 
-I work with retail sales, inventory and supply chain data, building reporting solutions that support business decision-making across multiple markets.
+I work with retail sales, inventory and supply chain data, building reporting solutions that support business decision making for few deparments.
 
 <table>
 <tr>
