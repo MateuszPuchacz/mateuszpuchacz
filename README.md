@@ -1,5 +1,7 @@
 ## Hi there 👋
 <!-- ======================= HEADER ======================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0D1117,25:1E3A8A,55:36BCF7,80:5B86E5,100:7F5AF0&text=DECISION%20INTELLIGENCE&fontColor=FFFFFF&fontSize=62&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Retail%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Supply%20Chain%20Analytics&descSize=21&descAlign=50&descAlignY=66"/>
+
 
 <div align="center">
 
