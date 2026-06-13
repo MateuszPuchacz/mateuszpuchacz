@@ -54,6 +54,10 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
   <img src="https://img.icons8.com/color/96/sql.png" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" width="55"/>
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="55"/>
+  
+  
 </p>
 
 <!--
