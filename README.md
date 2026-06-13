@@ -1,22 +1,20 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,40:1E3A8A,70:217346,100:36BCF7&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,40:1E3A8A,70:217346,100:36BCF7"/>
 
-# 📊 Retail Analytics | Business Intelligence | Supply Chain Analytics
+# Retail Data Analyst
 
-### Data Analyst focused on transforming retail data into business decisions
+### Sales • Inventory • Margin • Reporting Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Sales+Analytics;Inventory+Optimization;Margin+Analysis;Power+Query+Automation;Business+Intelligence"/>
+Supporting 65+ hypermarkets through retail analytics, Power Query automation and business intelligence reporting.
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Power+Query+ETL;Supply+Chain+Analytics;KPI+Reporting;Business+Intelligence"/>
 
 </div>
 
----
 
-<table>
-<tr>
 
-<td width="50%" valign="top">
 
 ### 👨‍💻 About Me
 
