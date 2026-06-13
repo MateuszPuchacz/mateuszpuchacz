@@ -2,36 +2,48 @@
 
 <!-- ======================= HEADER ======================= -->
 
+---
 
-<div align="center">
+## 📊 DATA ANALYTICS STACK
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=340&color=0:0D1117,20:1E3A8A,45:36BCF7,75:5B86E5,100:7F5AF0&text=TURNING%20DATA%20INTO%20BUSINESS%20DECISIONS&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Retail%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Supply%20Chain%20Optimization&descSize=22&descAlign=50&descAlignY=66"/>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/sql.png" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" title="Microsoft SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" title="GitHub"/>
+</p>
 
-<br>
+Excel • Power Query • Power BI • SQL • MySQL • SQL Server • GitHub
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2400&pause=700&color=36BCF7&center=true&vCenter=true&width=1200&height=90&lines=Analyzing+Millions+of+Retail+Records;Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;KPI+Monitoring+and+Reporting;Process+Optimization"/>
+---
 
-<br>
+## 🤖 AI & PRODUCTIVITY
 
-### Retail Analytics • Business Intelligence • Supply Chain Analytics
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openai" width="48" height="48" title="ChatGPT"/>
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" title="Claude"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" title="GitHub Copilot"/>
+  <img src="https://img.icons8.com/color/48/canva.png" title="Canva"/>
+</p>
 
-<br>
+ChatGPT • Claude • GitHub Copilot • Canva
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+---
 
-<br><br>
+## 🎯 SPECIALIZATIONS
 
-📊 KPI Dashboards &nbsp;&nbsp;•&nbsp;&nbsp;
-📦 Supply Chain Analytics &nbsp;&nbsp;•&nbsp;&nbsp;
-⚡ ETL Automation &nbsp;&nbsp;•&nbsp;&nbsp;
-📈 Retail Performance &nbsp;&nbsp;•&nbsp;&nbsp;
-🗄️ SQL Analytics
+📦 Supply Chain Analytics  
+📊 Retail Analytics  
+📈 Dashboard Development  
+⚡ Power Query Automation  
+📉 Sales & Inventory Analysis  
+📋 Reporting & Process Improvement
 
-</div>
+---
+
+### 💡 Turning data into insights, automating reports, and supporting business decisions.
 
 ---
 ```
