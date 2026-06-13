@@ -41,6 +41,13 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
   <img src="LINK_DO_GIFA.gif" width="700">
 </div>
 
+
+<div align="center">
+<img src="images/dashboard_preview.png" width="900"/>
+</div>
+
+
+
 ## 📊 Retail Analytics & Business Intelligence
 
 Supply Manager working at the Polish headquarters of a French hypermarket chain.
