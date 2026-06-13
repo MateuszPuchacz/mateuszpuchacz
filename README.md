@@ -21,11 +21,6 @@ Transforming data into business decisions.
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:1E3A8A,100:00E5FF&section=footer"/>
-
-</div>
-
-
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateuszPuchacz&show_icons=true&theme=tokyonight&hide_border=true" />
