@@ -35,24 +35,15 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mateusz-puchacz/)
 
 
-## 🛠️ Data Analytics Stack
+<h2>🛠️ Data Analytics Stack</h2>
 
 <p align="left">
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="56" height="56" title="Excel"/>
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="56" height="56" title="Power BI"/>
-  <img src="https://img.icons8.com/color/96/sql.png" width="56" height="56" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="56" height="56" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="56" height="56" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="56" height="56" title="GitHub"/>
-</p>
-
-## 🤖 AI & Productivity
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openai" width="56" height="56" title="ChatGPT"/>
-  <img src="https://cdn.simpleicons.org/anthropic" width="56" height="56" title="Claude"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot" width="56" height="56" title="GitHub Copilot"/>
-  <img src="https://img.icons8.com/color/96/canva.png" width="56" height="56" title="Canva"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="64" height="64" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="64" height="64" />
+  <img src="https://img.icons8.com/color/96/sql.png" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="64" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
 </p>
 ---
 <!--
