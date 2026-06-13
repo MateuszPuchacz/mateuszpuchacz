@@ -1,3 +1,14 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:36BCF7,50:217346,100:1E3A8A"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/65+-Hypermarkets-1E3A8A?style=flat-square"/>
+<img src="https://img.shields.io/badge/1M+-Records-217346?style=flat-square"/>
+<img src="https://img.shields.io/badge/Retail-Analytics-36BCF7?style=flat-square"/>
+
+</div>
 
 <div align="center">
 
