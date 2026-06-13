@@ -44,7 +44,8 @@
 
 <td width="60%" valign="top">
 
-<h3>📊  About Me</h3>
+<h3>💡  About Me</h3>
+
 Supporting **65+ hypermarkets** through data driven analysis, KPI reporting and business intelligence solutions.
 Focused on transforming raw data into actionable insights using Power Query, SQL and analytical thinking.
 Currently developing my skills in **SQL, Power BI, DAX and Data Modeling**, with a clear goal of growing into a full time **Data Analyst / BI Analyst** role.
