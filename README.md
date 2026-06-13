@@ -6,6 +6,17 @@ Retail Analytics • Process Automation • Business Intelligence
 </h3>
 
 
+<h3 align="center">
+Data Analyst | Supply Manager | BI Enthusiast
+</h3>
+
+<p align="center">
+
+📊 Data Analytics • 📈 Business Intelligence • ⚡ Process Automation • 🗄️ SQL • 🐍 Python • 🚀 Data Engineering • 📦 Supply Chain Analytics
+
+</p>
+
+
 
 
 
