@@ -4,47 +4,11 @@ I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headq
 
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
-<!-- ========================================================= -->
-<!-- HEADER -->
-<!-- ========================================================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:36BCF7,50:5B86E5,100:7F5AF0&section=header&animation=fadeIn"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=38&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1400&height=90&lines=%F0%9F%93%8A+Retail+Analytics;%F0%9F%93%A6+Supply+Chain+Analytics;%E2%9A%A1+Power+Query+Automation;%F0%9F%93%88+Power+BI+Dashboards;%F0%9F%97%84%EF%B8%8F+SQL+%26+Business+Intelligence;%F0%9F%9A%80+Data-Driven+Decision+Making" />
-</p>
-
-<h3 align="center">
-Turning data into business decisions
-</h3>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateusz630p&label=Profile+Views&color=36BCF7&style=for-the-badge" />
-</p>
-
-<p align="center">
-  📊 Retail Analytics &nbsp;&nbsp;|&nbsp;&nbsp;
-  📦 Supply Chain Analytics &nbsp;&nbsp;|&nbsp;&nbsp;
-  ⚡ Power Query Automation &nbsp;&nbsp;|&nbsp;&nbsp;
-  📈 Business Intelligence
-
-<!-- TU DODASZ STACK TECHNOLOGICZNY -->
-
-<!-- ========================================================= -->
-<!-- END HEADER -->
-<!-- ========================================================= -->
 
 
-</p>
-
-<br>
 
 
-<!-- WAVE FOOTER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:36BCF7,50:5B86E5,100:7F5AF0"/>
 ###  What I do
 
