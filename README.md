@@ -7,6 +7,16 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=900&size=30&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=1600&height=90&lines=%F0%9F%93%8A+Transforming+Raw+Data+Into+Business+Insights;%F0%9F%93%88+Discovering+Trends%2C+Patterns+and+Opportunities;%F0%9F%9A%80+Building+Automated+Reporting+Solutions;%F0%9F%97%84%EF%B8%8F+Turning+Millions+of+Records+Into+Decisions;%F0%9F%92%A1+Driving+Business+Performance+Through+Analytics;%F0%9F%93%A6+Optimizing+Retail+and+Supply+Chain+Operations" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=900&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=2000&height=100&lines=%F0%9F%93%8A+Turning+Millions+of+Retail+Records+Into+Business+Decisions;%F0%9F%93%88+Driving+Performance+Through+Analytics+and+Automation;%F0%9F%9A%80+Building+Scalable+Reporting+and+Decision+Support+Solutions;%F0%9F%92%A1+Transforming+Complex+Data+Into+Clear+Business+Actions;%F0%9F%8E%AF+Enabling+Data-Driven+Growth+Across+70%2B+Retail+Stores;%F0%9F%93%A6+Retail+Analytics+%7C+Business+Intelligence+%7C+Supply+Chain+Optimization" />
+</p>
+```
+
 ---
 
 ### 💡 Transforming data into actionable insights through analytics, automation, and business-focused reporting.
