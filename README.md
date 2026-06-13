@@ -38,7 +38,7 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,excel" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,oracle" />
 </p>
 
 <p align="left">
