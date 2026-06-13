@@ -57,6 +57,120 @@ Turning raw business data into actionable insights.
 
 
 
+---
+
+## 📈 Current Focus
+
+```text
+SQL            ██████████░░░░ 70%
+Power BI       █████████░░░░░ 65%
+DAX            ████████░░░░░░ 60%
+Python         ██████░░░░░░░░ 45%
+Data Modeling  ████████░░░░░░ 60%
+```
+
+---
+
+## 📊 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 📦 Retail Sales & Inventory Analysis | Sales, stock, margin, resale %, YoY analysis |
+| 📈 Power BI Sales Dashboard | KPI reporting and business performance tracking |
+| ⚙️ Reporting Automation | Power Query ETL and reporting workflows |
+| 📉 Executive KPI Reporting | Business-focused reporting structures |
+
+---
+
+## 📋 What I Work With
+
+```text
+✓ Retail Analytics
+✓ Business Intelligence
+✓ KPI Reporting
+✓ Power Query ETL
+✓ Data Validation
+✓ Dashboard Development
+✓ Sales & Inventory Analysis
+✓ Data Modeling
+✓ Reporting Automation
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MateuszPuchacz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszPuchacz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MateuszPuchacz&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MateuszPuchacz&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Learning Path
+
+```text
+SQL
+   ↓
+Power BI
+   ↓
+DAX
+   ↓
+Python
+   ↓
+Analytics Engineering
+```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📊 Retail Analytics & Business Intelligence
 
 Supply Manager working at the Polish headquarters of a French hypermarket chain.
