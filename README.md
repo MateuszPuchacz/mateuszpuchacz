@@ -2,17 +2,16 @@
 
 
 <h1 align="center">
-From Data To Decisions
+📊 Mateusz Puchacz
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1200&lines=Data+Analyst;Retail+Analytics+Specialist;Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1100&lines=Retail+Analytics;Business+Intelligence;Supply+Chain+Analytics;Power+Query+Automation;Data-Driven+Decision+Making" />
 </p>
 
 <p align="center">
-Transforming millions of retail records into actionable business insights
+Retail Analytics • Business Intelligence • Supply Chain
 </p>
-
 ---
 
 ---
