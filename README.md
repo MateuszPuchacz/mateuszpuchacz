@@ -4,6 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header"/>
 
+<h3 align="center">
+Data Analyst | Supply Manager | BI Enthusiast
+</h3>
+
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&text=Turning%20Complexity%20Into%20Clarity&fontColor=FFFFFF&fontSize=26&fontAlign=50&fontAlignY=35&animation=fadeIn"/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=900&size=31&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=1700&height=90&lines=%F0%9F%93%8A+Data+Cleaning+%E2%80%A2+Transformation+%E2%80%A2+Automation;%F0%9F%93%88+KPIs+%E2%80%A2+Dashboards+%E2%80%A2+Business+Insights;%E2%9A%A1+Power+Query+%E2%80%A2+Power+BI+%E2%80%A2+SQL;%F0%9F%9A%80+From+Data+Extraction+To+Decision+Support;%F0%9F%92%A1+Enabling+Data-Driven+Business+Decisions;%F0%9F%93%A6+Retail+Analytics+%E2%80%A2+Supply+Chain+Analytics" />
