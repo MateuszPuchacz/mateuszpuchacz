@@ -1,46 +1,61 @@
 
 <div align="center">
 
-<table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,35:1E3A8A,70:217346,100:36BCF7&section=header"/>
+
+<table width="100%">
 <tr>
+<td align="center" width="33%">
 
-<td align="center">
-
-### 📊 Retail Analytics
-
-Sales Performance  
-Margin Analysis  
-Product Rotation
+### 📊 Analytics
+Sales • Margin • Stock
 
 </td>
+<td align="center" width="33%">
 
-<td align="center">
-
-### 📦 Inventory
-
-Stock Coverage  
-Overstock Risk  
-Availability Control
+### ⚡ Automation
+Power Query • Reporting
 
 </td>
+<td align="center" width="33%">
 
-<td align="center">
-
-### ⚡ Business Intelligence
-
-Reporting Automation  
-KPI Monitoring  
-Decision Support
+### 🧠 BI
+KPI • Insights • Decisions
 
 </td>
-
 </tr>
 </table>
 
-</div>
-```
+<br>
 
-```
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=30&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Retail+Data+Analytics;Supply+Chain+Business+Intelligence;Power+Query+Automation;Turning+Retail+Data+Into+Decisions"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/65%2B-Hypermarkets-0D1117?style=for-the-badge&labelColor=1E3A8A"/>
+</td>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/Sales-Margin-0D1117?style=for-the-badge&labelColor=217346"/>
+</td>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/Inventory-Reporting-0D1117?style=for-the-badge&labelColor=36BCF7"/>
+</td>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/BI-Decision%20Support-0D1117?style=for-the-badge&labelColor=1E3A8A"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:36BCF7,50:217346,100:1E3A8A"/>
+
+</div>
+
+<br>
 
 
 
