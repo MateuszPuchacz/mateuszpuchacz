@@ -7,7 +7,7 @@
 
 ### Data Analyst | Retail Analytics | Business Intelligence
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=70&lines=Transforming+Data+Into+Business+Decisions;Retail+Analytics+Specialist;Supply+Chain+Analytics;Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=1100&height=70&lines=Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Retail+%26+Supply+Chain+Insights;Turning+Data+Into+Business+Decisions" alt="Typing SVG" />
 
 <br>
 
@@ -20,7 +20,13 @@ Transforming millions of retail records into actionable business insights.
 <img src="https://img.shields.io/badge/Supply_Chain-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
 <img src="https://img.shields.io/badge/Reporting_Automation-0D1117?style=for-the-badge&logo=zapier&logoColor=36BCF7"/>
 
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
+
 </div>
+
+---
 
 ---
 
