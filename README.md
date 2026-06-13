@@ -59,7 +59,7 @@ Turning raw business data into actionable insights.
 
 ```sql
 SELECT *
-FROM opportunities
+FROM analyst_profile
 
 WHERE role IN
 (
