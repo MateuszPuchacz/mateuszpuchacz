@@ -39,7 +39,7 @@
 
 <td width="60%" valign="top">
 
-
+```
 SELECT
     'Supply Manager'        AS role_title,
     'Retail Data Analyst'   AS actual_role,
@@ -90,7 +90,7 @@ AS mission;
 
 </tr>
 </table>
-````
+```
 
 
 
