@@ -3,15 +3,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Mateusz%20Puchacz&fontSize=40&fontColor=FFFFFF&fontAlignY=35"/>
 
 <h3>Data Analyst • Business Intelligence • Retail Analytics</h3>
-## 💾 explain_my_job.sql
+💾 explain_my_job.sql
+SELECT role_title;
 
-```sql
-IF job_title = 'Supply Manager'
-THEN
-    SELECT 'Probably works with logistics';
++----------------------------------+
+| role_title                       |
++----------------------------------+
+| Supply Manager                   |
++----------------------------------+
 
-ELSE
-    SELECT 'Wrong assumption';
+SELECT actual_role;
+
++----------------------------------+
+| actual_role                      |
++----------------------------------+
+| Retail Data Analyst              |
++----------------------------------+
 
 SELECT actual_daily_work
 FROM reality;
@@ -23,6 +30,8 @@ FROM reality;
 | Cleaning and transforming raw datasets           |
 | Power Query ETL                                  |
 | Data validation and quality checks               |
+| Data standardization                             |
+| Data modeling                                    |
 | Building reporting structures                    |
 | KPI monitoring and performance tracking          |
 | Sales analytics                                  |
@@ -32,8 +41,7 @@ FROM reality;
 | Dashboard development                            |
 | Reporting automation                             |
 | Business intelligence                            |
-| Data modeling                                    |
-| Forecast and trend analysis                      |
+| Trend and forecast analysis                      |
 | Cross-functional decision support                |
 +--------------------------------------------------+
 
@@ -49,15 +57,22 @@ FROM business_environment;
 | French Headquarters                              |
 +--------------------------------------------------+
 
+SELECT business_scope;
+
++--------------------------------------------------+
+| business_scope                                   |
++--------------------------------------------------+
+| 65+ Hypermarkets                                 |
+| 1M+ Records Processed Weekly                     |
++--------------------------------------------------+
+
 SELECT conclusion;
 
 +--------------------------------------------------+
 | conclusion                                       |
 +--------------------------------------------------+
-| Data Analyst trapped in a Supply Manager title   |
+| Transforming Retail Data Into Business Decisions |
 +--------------------------------------------------+
-```
-
 
 ## 🚀 Tech Stack
 
