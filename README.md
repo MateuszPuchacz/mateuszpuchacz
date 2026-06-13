@@ -1,11 +1,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Mateusz+Puchacz&fontSize=34&fontColor=FFFFFF"/>
+# Mateusz Puchacz
 
-# Data Analyst | Retail Analytics | Supply Chain Analytics
+### Data Analyst | Retail Analytics | Supply Chain Analytics
 
-Currently working as a Supply Manager in a French retail corporation, supporting approximately 65 hypermarkets through sales, inventory and supply chain analysis.
+Currently working as a Supply Manager supporting approximately 65 hypermarkets through sales, inventory and supply chain analysis.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=36BCF7&center=true&width=800&lines=Sales+%7C+Margin+%7C+Inventory+%7C+Reporting;Power+Query+Automation;Retail+Analytics+and+Business+Intelligence"/>
+</p>
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=36BCF7&center=true&width=800&lines=Sales+%7C+Margin+%7C+Inventory+%7C+Reporting;Power+Query+Automation;Retail+Analytics+and+Business+Intelligence"/>
