@@ -47,11 +47,6 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 </p>
 
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-</p>
 
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
