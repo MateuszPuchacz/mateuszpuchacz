@@ -60,57 +60,6 @@ Turning raw business data into actionable insights.
 
 
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MateuszPuchacz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=MateuszPuchacz&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MateuszPuchacz&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MateuszPuchacz&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MateuszPuchacz&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Learning Path
-
-```text
-SQL
-   ↓
-Power BI
-   ↓
-DAX
-   ↓
-Python
-   ↓
-Analytics Engineering
-```
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
