@@ -57,44 +57,8 @@ Turning raw business data into actionable insights.
 
 
 
----
 
-## 📈 Current Focus
 
-```text
-SQL            ██████████░░░░ 70%
-Power BI       █████████░░░░░ 65%
-DAX            ████████░░░░░░ 60%
-Python         ██████░░░░░░░░ 45%
-Data Modeling  ████████░░░░░░ 60%
-```
-
----
-
-## 📊 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 📦 Retail Sales & Inventory Analysis | Sales, stock, margin, resale %, YoY analysis |
-| 📈 Power BI Sales Dashboard | KPI reporting and business performance tracking |
-| ⚙️ Reporting Automation | Power Query ETL and reporting workflows |
-| 📉 Executive KPI Reporting | Business-focused reporting structures |
-
----
-
-## 📋 What I Work With
-
-```text
-✓ Retail Analytics
-✓ Business Intelligence
-✓ KPI Reporting
-✓ Power Query ETL
-✓ Data Validation
-✓ Dashboard Development
-✓ Sales & Inventory Analysis
-✓ Data Modeling
-✓ Reporting Automation
-```
 
 ---
 
