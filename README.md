@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
----
-
 <h1 align="center">
 From Data To Decisions
 </h1>
