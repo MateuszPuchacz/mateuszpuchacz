@@ -45,7 +45,7 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="800"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800"/>
 </div>
 
 
