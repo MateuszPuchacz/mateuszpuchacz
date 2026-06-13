@@ -85,6 +85,11 @@ Profitability Management
 
 > Strong business decisions require clean, structured and trustworthy data.
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=36BCF7"/>
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
 </p>
