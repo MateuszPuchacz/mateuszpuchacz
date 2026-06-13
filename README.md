@@ -3,39 +3,17 @@
 
 ---
 
-<!-- ======================= PROFESSIONAL HEADER ======================= -->
+<h1 align="center">
+From Data To Decisions
+</h1>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,35:1E3A8A,70:36BCF7,100:5B86E5&text=TURNING%20DATA%20INTO%20DECISIONS&fontColor=FFFFFF&fontSize=46&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Retail%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Supply%20Chain%20Analytics&descSize=19&descAlign=50&descAlignY=65"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&duration=2300&pause=800&color=36BCF7&center=true&vCenter=true&width=1100&height=70&lines=Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;ETL+and+Data+Cleaning;KPI+Reporting;Retail+Performance+Insights;Stock+%26+Deliveries+Analysis" />
-
-<br>
-
-### Transforming retail, stock and supply chain data into actionable business insights
-
-<br>
-
-<img src="https://img.shields.io/badge/ETL%20Automation-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/KPI%20Dashboards-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=36BCF7"/>
-<img src="https://img.shields.io/badge/Retail%20Analytics-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384"/>
-<img src="https://img.shields.io/badge/Supply%20Chain-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
-<img src="https://img.shields.io/badge/SQL%20Analysis-0D1117?style=for-the-badge&logo=databricks&logoColor=36BCF7"/>
-
-<br><br>
-
-<p>
-  📊 KPI Monitoring &nbsp;•&nbsp;
-  📦 Stock & Deliveries &nbsp;•&nbsp;
-  ⚡ Reporting Automation &nbsp;•&nbsp;
-  📈 YoY Analysis &nbsp;•&nbsp;
-  🧮 Data Quality
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1200&lines=Data+Analyst;Retail+Analytics+Specialist;Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics" />
 </p>
 
-</div>
+<p align="center">
+Transforming millions of retail records into actionable business insights
+</p>
 
 ---
 
