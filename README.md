@@ -1,97 +1,119 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=34&duration=3200&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Commercial+%26+Supply+Chain+Analytics;Retail+Reporting+%26+Business+Intelligence;Sales+%7C+Margin+%7C+Inventory+%7C+KPIs"/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=32&duration=3200&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Data+Analyst;Business+Intelligence;Analytics+Engineering;SQL+%7C+Power+BI+%7C+Power+Query"/>
+
+### Transforming business data into reporting solutions, analytics and automation
 
 <br>
+
+<img src="https://img.shields.io/badge/65+-Hypermarkets-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1M+-Records_Weekly-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Analytics-36BCF7?style=for-the-badge"/>
+
+</div>
+
+---
 
 <table>
 <tr>
 
-<td align="center">
+<td width="50%" valign="top">
 
-📈
+## 👨‍💻 About Me
 
-### Sales
+Currently working at the Polish headquarters of a French retail corporation.
 
-Performance Analysis
+My work combines analytics, reporting, automation and business decision support across sales, inventory, margin and supply chain operations.
 
-</td>
-
-<td align="center">
-
-📦
-
-### Inventory
-
-Stock Optimization
+I enjoy building reporting solutions, improving data quality and transforming raw business data into actionable insights.
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-💰
+## 🎯 Current Focus
 
-### Margin
-
-Profitability Control
-
-</td>
-
-<td align="center">
-
-⚡
-
-### BI
-
-Reporting Automation
+- Business Intelligence
+- Retail Analytics
+- Supply Chain Analytics
+- Reporting Automation
+- Data Modeling
+- KPI Reporting
+- SQL Development
+- Analytics Engineering
 
 </td>
 
 </tr>
 </table>
 
-</div>
+---
+
+## 🛠️ Data Analytics Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
-## About
+## 📊 Areas of Expertise
 
-Currently working at the Polish headquarters of a French retail corporation, supporting approximately **65 hypermarkets** through sales, inventory, margin and supply chain analytics.
-
-My work focuses on transforming operational data into reporting solutions used for commercial decision-making, inventory optimization and performance monitoring.
-
----
-
-## Impact
-
-| Area | Scope |
-|--------|--------|
-| Stores Supported | 65+ Hypermarkets |
-| Data Volume | 1M+ Records Weekly |
-| Reporting | KPI & Management Reporting |
-| Automation | Power Query ETL |
-| Focus | Sales, Margin, Inventory |
-| Business Area | Retail & Supply Chain |
+| Analytics | Business | Data |
+|------------|------------|------------|
+| Sales Analysis | KPI Reporting | SQL |
+| Margin Analysis | Decision Support | Data Modeling |
+| Inventory Analytics | Dashboard Development | ETL |
+| Product Rotation | Reporting Automation | Power Query |
 
 ---
 
-## Technologies
+## 🚀 Featured Projects
 
-[Twój obecny stack]
+### 📊 Weekly Retail Sales & Inventory Analysis
+
+Power Query automation, inventory monitoring, margin analysis and retail reporting.
+
+### 📈 Electronics Sales Dashboard
+
+Interactive Power BI dashboard focused on KPI monitoring and performance analysis.
+
+### 🛒 Supermarket Sales Analysis
+
+Business Intelligence project combining DAX, data modeling and executive reporting.
 
 ---
 
-## Featured Projects
+## 📫 Connect With Me
 
-[projekty]
+<a href="https://www.linkedin.com/in/mateusz-puchacz">
+<img src="https://img.shields.io/badge/LinkedIn-Mateusz%20Puchacz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-## Contact
-
-LinkedIn
 ```
+
 
 
 ## 🛠️ Data Analytics Stack
