@@ -89,5 +89,8 @@ Profitability Management
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,postgres,python,github,vscode" />
+  <img src="https://img.shields.io/badge/Sales_Analysis-36BCF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Inventory_Analysis-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Margin_Analysis-217346?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_Query_ETL-742774?style=for-the-badge"/>
 </p>
