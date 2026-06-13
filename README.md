@@ -21,6 +21,8 @@
 
 <p align="left">
 
+<img src="https://img.shields.io/badge/Microsoft_Fabric-6F2DA8?style=flat-square&logo=microsoft&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square"/>
 <img src="https://img.shields.io/badge/ETL-0D1117?style=flat-square&logo=apacheairflow&logoColor=white"/>
