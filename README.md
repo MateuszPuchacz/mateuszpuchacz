@@ -38,21 +38,17 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 ## 🛠️ Data Analytics Stack
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
-  <img src="https://img.icons8.com/color/48/sql.png" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" title="Microsoft SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/data-configuration.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
 </p>
 
-## 🤖 AI & Productivity
+## 🤖 AI Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="48" />
-</p>
-
-ChatGPT • Claude • Copilot • Canva
+ChatGPT • Claude • GitHub Copilot • Canva
 ---
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
