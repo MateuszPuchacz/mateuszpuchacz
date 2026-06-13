@@ -41,92 +41,49 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 
 
 
+## 📊 Retail Analytics & Business Intelligence
 
+Supply Manager working at the Polish headquarters of a French hypermarket chain.
 
-
-
-
-## 📊 Retail Data Analytics & Reporting
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=18&duration=3200&pause=800&color=36BCF7&width=900&lines=Retail+Analytics+%7C+Supply+Chain+Analytics+%7C+Power+Query+Automation;Sales+%E2%80%A2+Margin+%E2%80%A2+Inventory+%E2%80%A2+Product+Rotation;Turning+complex+retail+data+into+business+decisions"/>
-</p>
-
-> I work with retail sales, inventory and supply chain data, developing reporting solutions that support operational and commercial decision-making across multiple product departments. My work combines business analysis, inventory management and data transformation to improve visibility, efficiency and profitability.
+Supporting **65+ hypermarkets** through sales, inventory, margin and supply chain analytics.
 
 <table>
 <tr>
-<td width="33%" valign="top">
 
-### ⚙️ Daily Work
+<td width="33%">
 
-- Power Query ETL
-- Reporting structures
-- Management dashboards
-- Sales & margin analysis
-- Stock level monitoring
-- Product rotation analysis
-- Promotion impact review
+### Analytics
+
+Retail Analytics  
+Supply Chain Analytics  
+Business Intelligence
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%">
 
-### 🎯 Analytical Focus
+### Reporting
 
-- Data validation
-- Quality control
-- KPI monitoring
-- Trend analysis
-- Anomaly detection
-- Scalable reporting
-- Actionable insights
+Power Query ETL  
+KPI Monitoring  
+Dashboard Development
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%">
 
-### 🧠 Core Competencies
+### Business
 
-- Retail Analytics
-- Supply Chain Analytics
-- Business Intelligence
-- Dashboard Development
-- Power Query Automation
-- SQL Data Analysis
-- Profitability Management
+Sales Analysis  
+Inventory Optimization  
+Profitability Management
 
 </td>
+
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="25%" align="center">
-<b>Sales</b><br>
-Performance tracking
-</td>
-<td width="25%" align="center">
-<b>Margin</b><br>
-Profitability control
-</td>
-<td width="25%" align="center">
-<b>Inventory</b><br>
-Overstock & stockout risk
-</td>
-<td width="25%" align="center">
-<b>Reporting</b><br>
-Decision support
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <b>Strong business decisions require clean, structured and trustworthy data.</b>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:1E3A8A,100:36BCF7"/>
-
+> Strong business decisions require clean, structured and trustworthy data.
 
 
 
