@@ -2,17 +2,18 @@
 
 <!-- ======================= HEADER ======================= -->
 
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0D1117,20:1E3A8A,50:36BCF7,80:5B86E5,100:7F5AF0&text=FROM%20DATA%20TO%20DECISIONS&fontColor=FFFFFF&fontSize=54&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Retail%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Supply%20Chain&descSize=22&descAlign=50&descAlignY=66"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=340&color=0:0D1117,20:1E3A8A,45:36BCF7,75:5B86E5,100:7F5AF0&text=TURNING%20DATA%20INTO%20BUSINESS%20DECISIONS&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Retail%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Supply%20Chain%20Optimization&descSize=22&descAlign=50&descAlignY=66"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&duration=2400&pause=800&color=36BCF7&center=true&vCenter=true&width=1200&height=90&lines=Retail+Analytics;Supply+Chain+Optimization;Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Data-Driven+Decision+Making"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2400&pause=700&color=36BCF7&center=true&vCenter=true&width=1200&height=90&lines=Analyzing+Millions+of+Retail+Records;Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;KPI+Monitoring+and+Reporting;Process+Optimization"/>
 
 <br>
 
-### Transforming millions of retail records into actionable business insights
+### Retail Analytics • Business Intelligence • Supply Chain Analytics
 
 <br>
 
@@ -24,17 +25,16 @@
 
 <br><br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br>
-
-📊 Retail Analytics &nbsp;&nbsp;•&nbsp;&nbsp;
+📊 KPI Dashboards &nbsp;&nbsp;•&nbsp;&nbsp;
 📦 Supply Chain Analytics &nbsp;&nbsp;•&nbsp;&nbsp;
-⚡ Reporting Automation &nbsp;&nbsp;•&nbsp;&nbsp;
-📈 KPI Dashboards &nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ ETL Automation &nbsp;&nbsp;•&nbsp;&nbsp;
+📈 Retail Performance &nbsp;&nbsp;•&nbsp;&nbsp;
 🗄️ SQL Analytics
 
 </div>
+
+---
+```
 
 ---
 
