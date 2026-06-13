@@ -86,9 +86,12 @@ Profitability Management
 > Strong business decisions require clean, structured and trustworthy data.
 
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=36BCF7"/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=3000&pause=1000&color=36BCF7&center=true&width=900&lines=Supply+Manager+%7C+Data+Analyst;Excel+%7C+Power+Query+%7C+Power+BI;SQL+%7C+DAX+%7C+Data+Modeling;Turning+Retail+Data+into+Business+Decisions"/>
 </p>
+
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
