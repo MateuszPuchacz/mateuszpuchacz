@@ -11,13 +11,7 @@ Retail Analytics • Process Automation • Business Intelligence
 
 
 
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,50:1E3A8A,100:36BCF7&text=DATA%20ANALYTICS&fontColor=FFFFFF&fontSize=58&fontAlign=50&fontAlignY=45&animation=fadeIn&desc=Business%20Intelligence%20%7C%20Retail%20Analytics%20%7C%20Supply%20Chain&descSize=18&descAlign=50&descAlignY=65"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&height=70&lines=Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Retail+%26+Supply+Chain+Insights;Turning+Data+Into+Business+Decisions" />
-
-<br>
 ---
 
 
