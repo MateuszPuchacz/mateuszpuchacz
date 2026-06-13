@@ -51,7 +51,7 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 <p align="left">
   <img src="https://img.icons8.com/color/48/chatgpt.png" title="ChatGPT"/>
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Claude"/>
-  <img src="https://img.icons8.com/color/48/microsoft-copilot.png" title="Microsoft Copilot"/>
+ <img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" title="Microsoft Copilot"/>
   <img src="https://img.icons8.com/color/48/canva.png" title="Canva"/>
 </p>
 ---
