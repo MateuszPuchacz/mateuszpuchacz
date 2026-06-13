@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Turning%20Retail%20Data%20Into%20Business%20Decisions&fontSize=28&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn"/>
+<div align="center">
+
+<img width="72%" src="https://capsule-render.vercel.app/api?type=rounded&height=95&color=0:0D1117,45:1E3A8A,100:217346&section=header&text=Data%20Analytics%20%7C%20Retail%20BI&fontSize=24&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"/>
 
 # Mateusz Puchacz
 
@@ -9,15 +11,17 @@
 
 Supporting 65+ hypermarkets through sales, inventory, margin and supply chain analytics.
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=18&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Sales+Analytics;Margin+Analysis;Inventory+Management;Power+Query+Automation;Business+Intelligence;Data+Driven+Decision+Making"/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=17&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Sales+%E2%80%A2+Margin+%E2%80%A2+Inventory;Power+Query+ETL+%E2%80%A2+KPI+Reporting;Business+Intelligence+%E2%80%A2+Decision+Support"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/65%2B-Hypermarkets-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Retail-Analytics-36BCF7?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Supply_Chain-Analytics-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/65%2B-Hypermarkets-1E3A8A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Retail_Analytics-217346?style=flat-square"/>
+<img src="https://img.shields.io/badge/Supply_Chain_BI-0D1117?style=flat-square"/>
 
 </div>
+```
+
 
 ---
 
