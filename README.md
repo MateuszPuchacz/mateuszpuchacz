@@ -3,61 +3,40 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Mateusz%20Puchacz&fontSize=40&fontColor=FFFFFF&fontAlignY=35"/>
 
 <h3>Data Analyst • Business Intelligence • Retail Analytics</h3>
-# Hi there 👋
+## 💾 explain_my_job.sql
 
-Currently I'm working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
+```sql
+IF job_title = 'Supply Manager'
+THEN
+    SELECT 'Probably works with logistics';
 
-In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
+ELSE
+    SELECT 'Wrong assumption';
 
-## What I do
+SELECT actual_daily_work
+FROM reality;
 
-- Extract, clean and transform data (Power Query)
-- Build reporting structures and dashboards
-- Analyze sales performance, margins and product rotation
-- Optimize inventory levels to reduce overstock and stockouts
-- Evaluate promotion performance and business impact
-- Maintain weekly reporting used for real time decision making
++------------------------------------------+
+| actual_daily_work                        |
++------------------------------------------+
+| Power Query ETL                          |
+| Sales Analytics                          |
+| Inventory Analytics                      |
+| Margin Reporting                         |
+| KPI Monitoring                           |
+| Dashboard Development                    |
+| Data Validation                          |
++------------------------------------------+
 
-I work closely with the French headquarters, analyzing cross border supply performance and ensuring data consistency across markets.
+SELECT conclusion;
 
-## My focus
-
-I design and develop reporting solutions that help commercial teams track KPIs and manage profitability. Beyond dashboard creation in first step I concentrate on data validation, standardization, and modeling.
-
-I work on reconciling inconsistencies, handling missing data and building scalable data models that ensure analytical accuracy.
-
-For me, robust data foundations are more important than visuals, because without clean and structured data, insights lose their value.
-
-## Currently developing
-
-I'm expanding my technical skill set in:
-
-- SQL
-- Power BI
-- Data modeling
-- DAX
-
-My goal is to fully transition into a Data Analyst role, combining strong business understanding with technical data expertise.
-<p>
-Turning raw business data into actionable insights.
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/65+-Hypermarkets-36BCF7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/1M+-Records%2FWeek-1E3A8A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_Query-ETL-217346?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Focus-Business_Intelligence-0D1117?style=for-the-badge"/>
-
-</div>
-
++------------------------------------------+
+| conclusion                               |
++------------------------------------------+
+| Data Analyst trapped in a Supply Manager |
+| job title                                |
++------------------------------------------+
+```
 
 
 ## 🚀 Tech Stack
