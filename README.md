@@ -1,22 +1,21 @@
 ## Hi there 👋
 
 I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
-<img width="100%" src="YOUR_BANNER_IMAGE_URL_HERE"/>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&height=80&lines=Retail+Analytics;Supply+Chain+Analytics;Power+Query+Automation;Power+BI+Dashboards;SQL+%26+Business+Intelligence" />
-</h1>
-
-<p align="center">
-  <b>Turning data into business decisions</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateusz630p&label=Profile+Views&color=36BCF7&style=flat-square" />
-</p>
 
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
+
+</p>
+```md
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,100:5B86E5&section=header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&height=80&lines=%F0%9F%93%8A+Retail+Analytics;%F0%9F%93%A6+Supply+Chain+Analytics;%E2%9A%A1+Power+Query+Automation;%F0%9F%93%88+Power+BI+Dashboards;%F0%9F%97%84%EF%B8%8F+SQL+%26+Business+Intelligence" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusz630p&label=Profile+Views&color=36BCF7&style=for-the-badge" />
+</p>
 ###  What I do
 
 - Extract, clean and transform data (Power Query)
