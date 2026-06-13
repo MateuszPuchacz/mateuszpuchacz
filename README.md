@@ -24,78 +24,39 @@ Currently working as a Supply Manager in a French retail corporation, supporting
 - KPI monitoring and business insights
 - Currently learning SQL, Power BI and DAX
 
+
+
+
 ---
 
-## ⚡ Analytics & BI Stack
+## 🛠️ Data Analytics Stack
 
-<div align="center">
+<p align="left">
 
-<table>
-<tr>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<td align="center" width="120">
-<img width="55" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg"/>
-<br>
-<b>Excel</b>
-<br>
-<sub>Advanced Analytics</sub>
-</td>
-
-<td align="center" width="120">
-<img width="55" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
-<br>
-<b>Power BI</b>
-<br>
-<sub>Dashboards</sub>
-</td>
-
-<td align="center" width="120">
-<img width="55" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>
-<br>
-<b>MySQL</b>
-<br>
-<sub>Data Querying</sub>
-</td>
-
-<td align="center" width="120">
-<img width="55" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>
-<br>
-<b>SQL Server</b>
-<br>
-<sub>Data Warehouse</sub>
-</td>
-
-<td align="center" width="120">
-<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-<br>
-<b>GitHub</b>
-<br>
-<sub>Portfolio</sub>
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/Power_Query-ETL%20%26%20Data%20Transformation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DAX-KPI%20Measures-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Data_Modeling-Star%20Schema%20%26%20Relationships-0D1117?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Retail_Analytics-Sales%20%7C%20Margin%20%7C%20Stock-1E3A8A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Supply_Chain-Inventory%20%7C%20Deliveries%20%7C%20Rotation-36BCF7?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/Business_Intelligence-Reporting%20%7C%20KPIs%20%7C%20Insights-512BD4?style=for-the-badge"/>
-
-</div>
+</p>
 ```
-
-
 
 
 
