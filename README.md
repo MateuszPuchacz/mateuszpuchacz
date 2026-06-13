@@ -5,7 +5,15 @@
 
 <td width="35%" valign="top">
 
-<h3>Data Analyst • Business Intelligence • Retail Analytics</h3>
+<div align="center">
+
+<h3>
+  📊 Data Analyst • 📈 Business Intelligence • 🛒 Retail Analytics
+</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+data-driven+solutions;Automating+reports+and+business+processes;Analyzing+sales%2C+stock%2C+margin+and+performance;Turning+complex+data+into+clear+decisions" />
+
+</div>
 
 ## 💻 Tech Stack
 
