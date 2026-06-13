@@ -9,36 +9,50 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 
 ---
 
-###  What I do
+## What I Do
 
-- Extract, clean and transform data (Power Query)
+I work with retail sales, inventory and supply chain data, building reporting solutions that support business decision-making across multiple markets.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Daily Work
+
+- Extract, clean and transform data using Power Query
 - Build reporting structures and dashboards
 - Analyze sales performance, margins and product rotation
 - Optimize inventory levels to reduce overstock and stockouts
 - Evaluate promotion performance and business impact
-- Maintain weekly reporting used for real time decision making
+- Maintain weekly reporting for real-time decision making
 
-I work closely with the French headquarters, analyzing cross border supply performance and ensuring data consistency across markets.
----
-### My focus
+</td>
+<td width="50%" valign="top">
+
+### My Focus
 
 I design and develop reporting solutions that help commercial teams track KPIs and manage profitability.
-Beyond dashboard creation in first step I concentrate on data validation, standardization, and modeling. I work on reconciling inconsistencies, handling missing data, and building scalable data models that ensure analytical accuracy.
-For me, robust data foundations are more important than visuals, because without clean and structured data, insights lose their value.
 
-### Currently developing
+My work focuses on data validation, standardization, modeling, resolving inconsistencies and building reliable data foundations for accurate business insights.
 
-I’m expanding my technical skill set in:
+</td>
+</tr>
+</table>
 
-- SQL
-- Power BI
-- Data modeling
-- DAX
+---
+
+## Currently Developing
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square"/>
+</p>
 
 My goal is to fully transition into a Data Analyst role, combining strong business understanding with technical data expertise.
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mateusz-puchacz/)
-
+📫 **LinkedIn:** [Mateusz Puchacz](https://www.linkedin.com/in/mateusz-puchacz/)
 
 <h2>🛠️ Data Analytics Stack</h2>
 
