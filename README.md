@@ -1,9 +1,11 @@
 
 <div align="center">
 
-# 📊 Retail Data Analyst
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Turning%20Retail%20Data%20Into%20Business%20Decisions&fontSize=28&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn"/>
 
-### Turning retail data into business decisions
+# Mateusz Puchacz
+
+### Data Analyst | Retail Analytics | Supply Chain Analytics
 
 Supporting 65+ hypermarkets through sales, inventory, margin and supply chain analytics.
 
@@ -23,9 +25,9 @@ Supporting 65+ hypermarkets through sales, inventory, margin and supply chain an
 
 I currently work as a Supply Manager in a French retail corporation, where my role is heavily focused on analytics and reporting.
 
-My work involves supporting approximately 65 hypermarkets by analyzing sales performance, inventory levels, margins and supply chain data to improve operational and commercial decision-making.
+I support approximately 65 hypermarkets by analyzing sales performance, inventory levels, margins and supply chain data to improve operational and commercial decision-making.
 
-I specialize in transforming raw retail data into structured reporting solutions that help identify trends, risks and business opportunities.
+My work combines business understanding with data transformation, reporting automation and KPI monitoring.
 
 ---
 
@@ -98,6 +100,8 @@ Business Intelligence project combining data modeling, DAX and executive reporti
 <a href="https://www.linkedin.com/in/mateusz-puchacz">
 LinkedIn Profile
 </a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
 
 
 
