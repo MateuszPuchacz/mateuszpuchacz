@@ -75,6 +75,38 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
   
   
 </p>
+```md
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,100:5B86E5&section=header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&height=80&lines=%F0%9F%93%8A+Retail+Analytics;%F0%9F%93%A6+Supply+Chain+Analytics;%E2%9A%A1+Power+Query+Automation;%F0%9F%93%88+Power+BI+Dashboards;%F0%9F%97%84%EF%B8%8F+SQL+%26+Business+Intelligence" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusz630p&label=Profile+Views&color=36BCF7&style=for-the-badge" />
+</p>
+
+---
+
+## 🛠️ Data Analytics Stack
+
+<p align="left">
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-white.svg" width="60"/>
+</p>
+
+### Core Competencies
+
+- Retail Analytics
+- Supply Chain Analytics
+- Power Query Automation
+- Dashboard Development
+- Business Intelligence
+- SQL Data Analysis
+```
 
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
