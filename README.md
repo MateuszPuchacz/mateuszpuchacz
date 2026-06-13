@@ -39,7 +39,13 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 
 </p>
 
+<div align="center">
 
+<img width="49%" src="LINK_DO_GIFA_ANALITYCZNEGO"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mateusz630p&show_icons=true&theme=transparent"/>
+
+</div>
 
 ## 📊 Retail Analytics & Business Intelligence
 
