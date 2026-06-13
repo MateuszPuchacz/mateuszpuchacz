@@ -1,200 +1,114 @@
- <div align="center">
- 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
-<h3 align="center">
 
-###  What I do
+<div align="center">
 
-- Extract, clean and transform data (Power Query)
-- Build reporting structures and dashboards
-- Analyze sales performance, margins and product rotation
-- Optimize inventory levels to reduce overstock and stockouts
-- Evaluate promotion performance and business impact
-- Maintain weekly reporting used for real time decision making
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,25:1E3A8A,50:36BCF7,75:217346,100:0D1117&section=header"/>
 
-I work closely with the French headquarters, analyzing cross border supply performance and ensuring data consistency across markets.
+# 📊 Retail Data Analytics & Business Intelligence
 
-### My focus
+### Turning sales, inventory and supply chain data into business decisions
 
-I design and develop reporting solutions that help commercial teams track KPIs and manage profitability.
-Beyond dashboard creation in first step I concentrate on data validation, standardization, and modeling. I work on reconciling inconsistencies, handling missing data, and building scalable data models that ensure analytical accuracy.
-For me, robust data foundations are more important than visuals, because without clean and structured data, insights lose their value.
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=24&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Retail+Analytics;Supply+Chain+Analytics;Power+Query+Automation;Business+Intelligence;KPI+Reporting"/>
 
-### Currently developing
+<br>
 
-I’m expanding my technical skill set in:
-
-- SQL
-- Power BI
-- Data modeling
-- DAX
-
-My goal is to fully transition into a Data Analyst role, combining strong business understanding with technical data expertise.
-
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mateusz-puchacz/)
-
-
-<h2>🛠️ Data Analytics Stack</h2>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
-oft-sql-server.png" width="55"/>
-
-
-
-### Core Competencies
-
-- Retail Analytics
-- Supply Chain Analytics
-- Power Query Automation
-- Dashboard Development
-- Business Intelligence
-- SQL Data Analysis
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
+<img src="https://img.shields.io/badge/65%2B-Hypermarkets-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1M%2B-Records%20Analyzed-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retail-Business%20Intelligence-36BCF7?style=for-the-badge&logo=powerbi&logoColor=white"/>
 
 </div>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📊 Retail Data Analytics & Reporting
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=18&duration=3200&pause=800&color=36BCF7&width=900&lines=Retail+Analytics+%7C+Supply+Chain+Analytics+%7C+Power+Query+Automation;Sales+%E2%80%A2+Margin+%E2%80%A2+Inventory+%E2%80%A2+Product+Rotation;Turning+complex+retail+data+into+business+decisions"/>
-</p>
-
-> I work with retail sales, inventory and supply chain data, developing reporting solutions that support operational and commercial decision-making across multiple product departments. My work combines business analysis, inventory management and data transformation to improve visibility, efficiency and profitability.
+## 🎯 Business Expertise
 
 <table>
 <tr>
-<td width="33%" valign="top">
 
-### ⚙️ Daily Work
+<td width="33%" align="center">
 
-- Power Query ETL
-- Reporting structures
-- Management dashboards
-- Sales & margin analysis
-- Stock level monitoring
-- Product rotation analysis
-- Promotion impact review
+### 📈 Sales
 
-</td>
+Performance Analysis
 
-<td width="33%" valign="top">
+Margin Monitoring
 
-### 🎯 Analytical Focus
-
-- Data validation
-- Quality control
-- KPI monitoring
-- Trend analysis
-- Anomaly detection
-- Scalable reporting
-- Actionable insights
+Promotion Evaluation
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-### 🧠 Core Competencies
+### 📦 Inventory
 
-- Retail Analytics
-- Supply Chain Analytics
-- Business Intelligence
-- Dashboard Development
-- Power Query Automation
-- SQL Data Analysis
-- Profitability Management
+Stock Coverage
+
+Product Rotation
+
+Overstock Detection
 
 </td>
+
+<td width="33%" align="center">
+
+### ⚡ Reporting
+
+Power Query ETL
+
+Dashboard Development
+
+KPI Monitoring
+
+</td>
+
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="25%" align="center">
-<b>Sales</b><br>
-Performance tracking
-</td>
-<td width="25%" align="center">
-<b>Margin</b><br>
-Profitability control
-</td>
-<td width="25%" align="center">
-<b>Inventory</b><br>
-Overstock & stockout risk
-</td>
-<td width="25%" align="center">
-<b>Reporting</b><br>
-Decision support
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <b>Strong business decisions require clean, structured and trustworthy data.</b>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:1E3A8A,100:36BCF7"/>
-
-
 ---
 
-I’m continuously expanding my analytical toolkit to combine strong retail business expertise with modern data analytics and BI technologies.
-
-> Strong business decisions require clean, structured and trustworthy data.
-
----
-My goal is to fully transition into a Data Analyst role, combining strong business understanding with technical data expertise.
-
-📫 **LinkedIn:** [Mateusz Puchacz](https://www.linkedin.com/in/mateusz-puchacz/)
-
-<h2>🛠️ Data Analytics Stack</h2>
+## 🛠️ Data Analytics Stack
 
 <p align="left">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
 
-oft-sql-server.png" width="55"/>
+---
 
+## 🚀 Featured Projects
 
+### 📊 Weekly Retail Sales & Inventory Analysis
 
-### Core Competencies
+Retail sales, inventory, stock coverage and margin analysis with Power Query automation.
 
-- Retail Analytics
-- Supply Chain Analytics
-- Power Query Automation
-- Dashboard Development
-- Business Intelligence
-- SQL Data Analysis
+### 📈 Electronics Sales Dashboard
+
+Interactive Power BI dashboard focused on KPI monitoring and business performance.
+
+### 🛒 Supermarket Sales Analysis
+
+Data modeling, DAX measures and executive-level reporting.
+
+---
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/mateusz-puchacz">
+<img src="https://img.shields.io/badge/LinkedIn-Mateusz%20Puchacz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
 
-</div>
+```
