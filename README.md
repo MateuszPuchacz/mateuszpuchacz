@@ -1,31 +1,5 @@
 ## Hi there 👋
 
-# 📊 Data Analytics Portfolio
-
-### Turning data into insights, automating processes, and supporting business decisions.
-
----
-
-## 🚀 About Me
-
-Data Analyst focused on transforming complex business data into clear insights and actionable recommendations.
-
-### Areas of Interest
-
-📦 Supply Chain Analytics  
-📊 Retail Analytics  
-📈 Sales & Inventory Analysis  
-⚡ Process Automation  
-📉 Business Intelligence  
-🗄️ Data Modeling & Reporting
-
-### Current Focus
-
-- Building automated reporting solutions
-- Developing interactive dashboards
-- Improving data quality and reporting processes
-- Expanding SQL and Business Intelligence skills
-- Leveraging AI tools to increase analytical productivity
 
 ---
 
