@@ -33,6 +33,68 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+
+SELECT
+    'Supply Manager'        AS role_title,
+    'Retail Data Analyst'   AS actual_role,
+    '65+ Hypermarkets'      AS business_scope,
+    '1M+ Records Weekly'    AS data_volume;
+
+SELECT responsibility
+FROM daily_work
+WHERE responsibility IN
+(
+    'Data Extraction',
+    'Data Cleaning',
+    'Data Transformation',
+    'Power Query ETL',
+    'Data Validation',
+    'Data Modeling',
+    'KPI Reporting',
+    'Sales Analytics',
+    'Inventory Analytics',
+    'Margin Analysis',
+    'Dashboard Development',
+    'Reporting Automation',
+    'Business Intelligence'
+);
+
+SELECT stakeholder
+FROM business_environment
+WHERE stakeholder IN
+(
+    'Commercial Teams',
+    'Supply Chain Teams',
+    'Store Coordinators',
+    'French Headquarters'
+);
+
+SELECT
+    'Turning Retail Data Into Business Decisions'
+AS mission;
+
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNjd2pqYjF4ZXZvbXQ2N2JrZ3J6YzA3Z3F1aW1mcmN4eTRwMTRqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+````
+
+
+
+
 ## 💾 explain_my_job.sql
 
 ```sql
