@@ -1,26 +1,27 @@
 
 <div align="center">
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=32&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Mateusz+Puchacz;Retail+Data+Analyst;Supply+Chain+Analytics+%7C+Business+Intelligence"/>
 
-<img width="72%" src="https://capsule-render.vercel.app/api?type=rounded&height=95&color=0:0D1117,45:1E3A8A,100:217346&section=header&text=Data%20Analytics%20%7C%20Retail%20BI&fontSize=24&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"/>
+<p>
+  <b>Turning retail data into actionable business decisions</b>
+</p>
 
-# Mateusz Puchacz
+<p>
+  Sales Analytics • Margin Analysis • Inventory Management • Power Query Automation • KPI Reporting
+</p>
 
-### Data Analyst | Retail Analytics | Supply Chain Analytics
+<img width="70%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:36BCF7,50:1E3A8A,100:217346"/>
 
-Supporting 65+ hypermarkets through sales, inventory, margin and supply chain analytics.
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=17&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Sales+%E2%80%A2+Margin+%E2%80%A2+Inventory;Power+Query+ETL+%E2%80%A2+KPI+Reporting;Business+Intelligence+%E2%80%A2+Decision+Support"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/65%2B-Hypermarkets-1E3A8A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Retail_Analytics-217346?style=flat-square"/>
-<img src="https://img.shields.io/badge/Supply_Chain_BI-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/65%2B%20Hypermarkets-0D1117?style=for-the-badge&logo=databricks&logoColor=36BCF7"/>
+<img src="https://img.shields.io/badge/Retail%20Analytics-1E3A8A?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supply%20Chain%20BI-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
 ```
+
 
 
 ---
