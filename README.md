@@ -5,9 +5,6 @@
 
 
 
-
-<br><br>
-
 <table>
   <tr>
     <td align="center"><b>📊 KPI Dashboards</b></td>
@@ -18,6 +15,10 @@
 </table>
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:7F5AF0,50:36BCF7,100:0D1117&section=footer"/>
+
+</div>
 
 
 
