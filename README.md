@@ -4,6 +4,8 @@
 
 <h3>Data Analyst • Business Intelligence • Retail Analytics</h3>
 💾 explain_my_job.sql
+
+```
 SELECT role_title;
 
 +----------------------------------+
@@ -73,6 +75,8 @@ SELECT conclusion;
 +--------------------------------------------------+
 | Transforming Retail Data Into Business Decisions |
 +--------------------------------------------------+
+```
+
 
 ## 🚀 Tech Stack
 
