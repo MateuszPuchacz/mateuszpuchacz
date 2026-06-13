@@ -3,8 +3,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1400&height=80&lines=%F0%9F%93%8A+Retail+Analytics+and+Business+Insights;%F0%9F%93%A6+Supply+Chain+and+Inventory+Optimization;%E2%9A%A1+Automating+Data+Processes+with+Power+Query;%F0%9F%93%88+Building+Executive+Power+BI+Dashboards;%F0%9F%97%84%EF%B8%8F+Transforming+Data+with+SQL+Analytics;%F0%9F%92%A1+Supporting+Data-Driven+Business+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=900&size=31&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=1700&height=90&lines=%F0%9F%93%8A+Data+Cleaning+%E2%80%A2+Transformation+%E2%80%A2+Automation;%F0%9F%93%88+KPIs+%E2%80%A2+Dashboards+%E2%80%A2+Business+Insights;%E2%9A%A1+Power+Query+%E2%80%A2+Power+BI+%E2%80%A2+SQL;%F0%9F%9A%80+From+Data+Extraction+To+Decision+Support;%F0%9F%92%A1+Enabling+Data-Driven+Business+Decisions;%F0%9F%93%A6+Retail+Analytics+%E2%80%A2+Supply+Chain+Analytics" />
 </p>
+
+```
+
 
 ---
 
