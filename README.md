@@ -3,29 +3,6 @@
 
 ---
 
-## 🛠️ Data Analytics Stack
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
-  <img src="https://img.icons8.com/color/48/sql.png" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" title="Microsoft SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" title="GitHub"/>
-</p>
-
-Excel • Power Query • Power BI • SQL • MySQL • SQL Server • GitHub
-
----
-
-## 🤖 AI & Productivity
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openai" width="48" height="48" title="ChatGPT"/>
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" title="Claude"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" title="GitHub Copilot"/>
-  <img src="https://img.icons8.com/color/48/canva.png" title="Canva"/>
-</p>
 
 ChatGPT • Claude • GitHub Copilot • Canva
 
