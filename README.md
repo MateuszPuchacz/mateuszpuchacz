@@ -55,8 +55,7 @@ Currently developing my skills in **SQL, Power BI, DAX and Data Modeling**, with
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="250"/>
-
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 </td>
 
 </td>
