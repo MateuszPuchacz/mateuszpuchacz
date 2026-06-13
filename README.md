@@ -1,21 +1,57 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=34&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Sales+Analytics;Inventory+Optimization;Business+Intelligence;Data+Automation"/>
+# 📊 DATA ANALYTICS PORTFOLIO
 
-<br>
+<table>
+<tr>
 
-### Supporting 65+ Hypermarkets Through Data
+<td align="center" width="180">
 
-Retail • Supply Chain • Reporting • Decision Support
+### 🏪
 
-<br>
+Retail
 
-<img src="https://img.shields.io/badge/65+-Hypermarkets-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/1M+-Records_Weekly-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reporting-Automation-36BCF7?style=for-the-badge"/>
+65+ Hypermarkets
+
+</td>
+
+<td align="center" width="180">
+
+### 📈
+
+Analytics
+
+1M+ Records Weekly
+
+</td>
+
+<td align="center" width="180">
+
+### ⚡
+
+Automation
+
+Power Query ETL
+
+</td>
+
+<td align="center" width="180">
+
+### 📊
+
+Business Intelligence
+
+Reporting & KPIs
+
+</td>
+
+</tr>
+</table>
 
 </div>
+```
+
 ```
 
 ---
