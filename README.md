@@ -37,10 +37,10 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/analytics/data-analysis.gif" width="850"/>
-</div>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszpuchacz&layout=compact&hide_border=true&theme=transparent" />
+</div>
 
 ## 📊 Retail Analytics & Business Intelligence
 
