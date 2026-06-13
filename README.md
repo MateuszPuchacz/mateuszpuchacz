@@ -3,79 +3,51 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Mateusz%20Puchacz&fontSize=40&fontColor=FFFFFF&fontAlignY=35"/>
 
 <h3>Data Analyst • Business Intelligence • Retail Analytics</h3>
-💾 explain_my_job.sql
+````markdown
+## 💾 explain_my_job.sql
 
+```sql
+SELECT
+    'Supply Manager'                    AS role_title,
+    'Retail Data Analyst'               AS actual_role,
+    '65+ Hypermarkets'                  AS business_scope,
+    '1M+ Records Weekly'                AS data_volume;
+
+SELECT responsibility
+FROM daily_work
+WHERE responsibility IN
+(
+    'Data Extraction',
+    'Data Cleaning',
+    'Data Transformation',
+    'Power Query ETL',
+    'Data Validation',
+    'Data Modeling',
+    'KPI Reporting',
+    'Sales Analytics',
+    'Inventory Analytics',
+    'Margin Analysis',
+    'Dashboard Development',
+    'Reporting Automation',
+    'Business Intelligence'
+);
+
+SELECT stakeholder
+FROM business_environment
+WHERE stakeholder IN
+(
+    'Commercial Teams',
+    'Supply Chain Teams',
+    'Store Coordinators',
+    'French Headquarters'
+);
+
+SELECT
+    'Turning Retail Data Into Business Decisions'
+AS mission;
 ```
-SELECT role_title;
 
-+----------------------------------+
-| role_title                       |
-+----------------------------------+
-| Supply Manager                   |
-+----------------------------------+
 
-SELECT actual_role;
-
-+----------------------------------+
-| actual_role                      |
-+----------------------------------+
-| Retail Data Analyst              |
-+----------------------------------+
-
-SELECT actual_daily_work
-FROM reality;
-
-+--------------------------------------------------+
-| actual_daily_work                                |
-+--------------------------------------------------+
-| Extracting data from multiple business sources   |
-| Cleaning and transforming raw datasets           |
-| Power Query ETL                                  |
-| Data validation and quality checks               |
-| Data standardization                             |
-| Data modeling                                    |
-| Building reporting structures                    |
-| KPI monitoring and performance tracking          |
-| Sales analytics                                  |
-| Inventory analytics                              |
-| Margin analysis                                  |
-| Product performance analysis                     |
-| Dashboard development                            |
-| Reporting automation                             |
-| Business intelligence                            |
-| Trend and forecast analysis                      |
-| Cross-functional decision support                |
-+--------------------------------------------------+
-
-SELECT stakeholders
-FROM business_environment;
-
-+--------------------------------------------------+
-| stakeholders                                     |
-+--------------------------------------------------+
-| Commercial Teams                                 |
-| Supply Chain Teams                               |
-| Store Coordinators                               |
-| French Headquarters                              |
-+--------------------------------------------------+
-
-SELECT business_scope;
-
-+--------------------------------------------------+
-| business_scope                                   |
-+--------------------------------------------------+
-| 65+ Hypermarkets                                 |
-| 1M+ Records Processed Weekly                     |
-+--------------------------------------------------+
-
-SELECT conclusion;
-
-+--------------------------------------------------+
-| conclusion                                       |
-+--------------------------------------------------+
-| Transforming Retail Data Into Business Decisions |
-+--------------------------------------------------+
-```
 
 
 ## 🚀 Tech Stack
