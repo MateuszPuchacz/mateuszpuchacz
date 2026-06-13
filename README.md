@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Mateusz Puchacz
@@ -6,31 +5,38 @@
 ### Data Analyst | Retail Analytics | Supply Chain Analytics
 
 Currently working as a Supply Manager supporting approximately 65 hypermarkets through sales, inventory and supply chain analysis.
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=36BCF7&center=true&width=800&lines=Sales+%7C+Margin+%7C+Inventory+%7C+Reporting;Power+Query+Automation;Retail+Analytics+and+Business+Intelligence"/>
-</p>
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=36BCF7&center=true&width=800&lines=Sales+%7C+Margin+%7C+Inventory+%7C+Reporting;Power+Query+Automation;Retail+Analytics+and+Business+Intelligence"/>
-</p>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=18&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Sales+Analytics;Margin+Analysis;Inventory+Management;Power+Query+Automation;Business+Intelligence;Data+Driven+Decision+Making"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/65%2B-Hypermarkets-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1M%2B-Records%20Analyzed-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retail-Analytics-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supply-Chain-217346?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## About Me
-
-- Retail analytics and reporting
-- Sales, margin and inventory analysis
-- Power Query ETL automation
-- Dashboard development
-- KPI monitoring and business insights
-- Currently learning SQL, Power BI and DAX
+## 👨‍💻 About Me
 
 
+Industry: Retail
+Role: Supply Manager
+Focus:
+  - Retail Analytics
+  - Supply Chain Analytics
+  - Inventory Optimization
+  - KPI Reporting
+  - Power Query Automation
 
-
----
+Currently Learning:
+  - SQL
+  - Power BI
+  - DAX
 
 ## 🛠️ Data Analytics Stack
 
