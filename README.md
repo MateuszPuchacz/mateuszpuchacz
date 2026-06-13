@@ -62,6 +62,11 @@ oft-sql-server.png" width="55"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:36BCF7,50:5B86E5,100:7F5AF0"/>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TWOJ_LOGIN/TWOJ_LOGIN/main/assets/data-dashboard-animation.gif" width="100%" />
+</p>
+
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
