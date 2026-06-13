@@ -55,31 +55,30 @@ Turning raw business data into actionable insights.
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 
-## 🚀 current_query.sql
+## 💾 career_query.sql
 
 ```sql
-SELECT
-    'Mateusz Puchacz'      AS analyst,
-    'Retail Analytics'     AS domain,
-    'Business Intelligence' AS focus,
-    '65+ Hypermarkets'     AS business_scope,
-    '1M+ Records Weekly'   AS data_scale,
-    'SQL'                  AS next_skill,
-    'Power BI'             AS next_skill,
-    'Python'               AS next_skill,
-    'Analytics Engineering' AS future_direction;
+SELECT *
+FROM opportunities
 
-SELECT
-    sales_analysis,
-    inventory_analytics,
-    margin_reporting,
-    kpi_monitoring,
-    reporting_automation
-FROM daily_work;
+WHERE role IN
+(
+    'Data Analyst',
+    'BI Analyst',
+    'Analytics Engineer'
+)
 
-SELECT
-    'Transforming Raw Data Into Business Decisions'
-AS mission;
+AND skills IN
+(
+    'SQL',
+    'Power BI',
+    'DAX',
+    'Python',
+    'Data Modeling'
+)
+
+ORDER BY continuous_learning DESC;
+```
 
 
 
