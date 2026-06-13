@@ -86,5 +86,5 @@ Profitability Management
 > Strong business decisions require clean, structured and trustworthy data.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
