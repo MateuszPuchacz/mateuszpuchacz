@@ -99,8 +99,8 @@ oft-sql-server.png" width="55"/>
 - Dashboard Development
 - Business Intelligence
 - SQL Data Analysis
-```
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:36BCF7,50:5B86E5,100:7F5AF0"/>
 
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
