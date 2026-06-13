@@ -12,8 +12,7 @@
   📊 Data Analytics • ⚙️ Automation • 💡 Business Intelligence
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=1050&lines=Building+data-driven+solutions;Automating+reports+and+business+processes;Transforming+raw+data+into+business+value;Supporting+65%2B+hypermarkets+through+analytics;Turning+complex+data+into+clear+decisions" />
-```
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=1050&lines=Building+data driven+solutions;Automating+reports+and+business+processes;Transforming+raw+data+into+business+value;Supporting+65%2B+hypermarkets+through+analytics;Turning+complex+data+into+clear+decisions" />
 
 
 ## 💻 Tech Stack
