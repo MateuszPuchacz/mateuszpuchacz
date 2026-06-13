@@ -1,10 +1,20 @@
 ## Hi there 👋
 
 I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
+<img width="100%" src="YOUR_BANNER_IMAGE_URL_HERE"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1200&color=00D9FF&center=true&vCenter=true&width=1400&height=90&lines=DATA+ANALYTICS;BUSINESS+INTELLIGENCE;RETAIL+%26+SUPPLY+CHAIN+ANALYTICS;POWER+QUERY+%7C+POWER+BI+%7C+SQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=38&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1400&height=90&lines=Retail+Analytics;Supply+Chain+Analytics;Power+BI+%7C+SQL+%7C+Excel;Power+Query+Automation;Data-Driven+Decision+Making" />
 </p>
+
+<p align="center">
+  <i>Transforming complex data into actionable business insights</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Data%20Analytics-36BCF7?style=for-the-badge"/>
+</p>
+
 
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
@@ -50,16 +60,7 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-<h3>📊 Data Analytics Stack</h3>
-
-<p align="left">
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="55"/>
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="55"/>
-  <img src="https://img.icons8.com/color/96/sql.png" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-  <img src="https://img.icons8.com/color/96/mysql-logo.png" width="55"/>
-  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="55"/>
+oft-sql-server.png" width="55"/>
 
 
   <h3>📊 Data Analytics Stack</h3>
