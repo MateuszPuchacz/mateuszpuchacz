@@ -120,6 +120,15 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 
 </p>
 
+<img src="https://img.shields.io/badge/Tableau-Data_Visualization-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Looker_Studio-Reporting-4285F4?style=flat-square&logo=googleanalytics&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ChatGPT-AI_Assistant-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Copilot-AI_Assistant-0078D4?style=flat-square&logo=microsoftcopilot&logoColor=white"/>
 
 
 
