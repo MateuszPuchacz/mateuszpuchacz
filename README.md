@@ -63,8 +63,24 @@ oft-sql-server.png" width="55"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:36BCF7,50:5B86E5,100:7F5AF0"/>
 
 
+<!-- HEADER -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusz630p&show_icons=true&theme=tokyonight" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:1E3A8A,100:36BCF7&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=80&lines=Retail+Analytics;Supply+Chain+Analytics;Power+Query+Automation;Power+BI+Dashboards;SQL+Business+Intelligence" />
+</p>
+
+<h3 align="center">Transforming data into business decisions</h3>
+
+<p align="center">
+  <b>Excel</b> • <b>Power Query</b> • <b>Power BI</b> • <b>SQL</b> • <b>Retail Analytics</b>
+</p>
+
+<p align="center">
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=36BCF7"/>
 </p>
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
