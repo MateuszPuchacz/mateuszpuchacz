@@ -101,14 +101,6 @@ Profitability Management
 </tr>
 
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
-
-</div>
-
-
-
 </table>
 
 > Strong business decisions require clean, structured and trustworthy data.
