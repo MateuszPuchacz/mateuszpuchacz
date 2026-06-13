@@ -1,50 +1,34 @@
 
-<div align="center">
+###  What I do
 
-# 📊 Data Analytics Portfolio
+- Extract, clean and transform data (Power Query)
+- Build reporting structures and dashboards
+- Analyze sales performance, margins and product rotation
+- Optimize inventory levels to reduce overstock and stockouts
+- Evaluate promotion performance and business impact
+- Maintain weekly reporting used for real time decision making
 
-<table>
-<tr>
-<td align="center" width="25%">
+I work closely with the French headquarters, analyzing cross border supply performance and ensuring data consistency across markets.
 
-### 🏪 Retail
-65+ Hypermarkets
+### My focus
 
-</td>
-<td align="center" width="25%">
+I design and develop reporting solutions that help commercial teams track KPIs and manage profitability.
+Beyond dashboard creation in first step I concentrate on data validation, standardization, and modeling. I work on reconciling inconsistencies, handling missing data, and building scalable data models that ensure analytical accuracy.
+For me, robust data foundations are more important than visuals, because without clean and structured data, insights lose their value.
 
-### 📈 Analytics
-1M+ Records Weekly
+### Currently developing
 
-</td>
-<td align="center" width="25%">
+I’m expanding my technical skill set in:
 
-### ⚡ Automation
-Power Query ETL
+- SQL
+- Power BI
+- Data modeling
+- DAX
 
-</td>
-<td align="center" width="25%">
+My goal is to fully transition into a Data Analyst role, combining strong business understanding with technical data expertise.
 
-### 🧠 BI
-Reports & KPIs
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mateusz-puchacz/)
 
-</td>
-</tr>
-</table>
-
-### Data Analyst focused on Business Intelligence, SQL and Analytics Engineering
-
-Transforming business data into reporting solutions, insights and automation.
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Currently working at the Polish headquarters of a French retail corporation, supporting **65+ hypermarkets** through sales, inventory, margin and supply chain analytics.
-
-My work combines business understanding, data transformation, reporting automation and KPI monitoring. I use my current retail analytics experience as a foundation to move deeper into **SQL, BI, Python and Data Engineering**.
 
 ---
 
