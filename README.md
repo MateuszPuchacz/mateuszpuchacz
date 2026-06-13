@@ -1,17 +1,13 @@
 ## Hi there 👋
 
 
-<h1 align="center">
-📊 Mateusz Puchacz
-</h1>
+<h1 align="center">Hi, I'm Mateusz 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1100&lines=Retail+Analytics;Business+Intelligence;Supply+Chain+Analytics;Power+Query+Automation;Data-Driven+Decision+Making" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=70&lines=Data+Analyst;Retail+Analytics+Specialist;Supply+Chain+Analytics;Power+Query+Automation;Power+BI+%7C+SQL+%7C+Excel" alt="Typing SVG" />
 </p>
 
-<p align="center">
-Retail Analytics • Business Intelligence • Supply Chain
-</p>
+<h3 align="center">Transforming data into business decisions</h3>
 ---
 
 ---
