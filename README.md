@@ -26,7 +26,7 @@ Turning raw business data into actionable insights.
 
 
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="left">
 
