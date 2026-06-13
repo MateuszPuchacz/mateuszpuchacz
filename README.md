@@ -61,20 +61,6 @@ Turning raw business data into actionable insights.
 
 
 
-
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Mateusz%20Puchacz&fontSize=42&fontColor=FFFFFF&fontAlignY=35"/>
-
-<h2>Data Analytics • Business Intelligence • Reporting Automation</h2>
-
-<p>
-Building data solutions that turn raw business data into clear reporting, KPI monitoring and decision support.
-</p>
-
-</div>
-
 ---
 
 ## 🧠 Data Portfolio
