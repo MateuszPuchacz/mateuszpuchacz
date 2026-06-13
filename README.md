@@ -39,18 +39,6 @@ Currently working as a Supply Manager in a French retail corporation, supporting
 
 </p>
 
----
-
-## Current Focus
-
-📊 Retail Analytics  
-📦 Inventory Optimization  
-📈 Business Intelligence  
-⚡ Power Query Automation  
-🗄 SQL Development  
-📉 KPI Reporting
-
----
 
 ## Contact
 
