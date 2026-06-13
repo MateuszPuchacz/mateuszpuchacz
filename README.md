@@ -45,9 +45,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/ETL-0D1117?style=flat-square&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
