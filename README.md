@@ -13,9 +13,7 @@
 
 ### Data Analyst • Retail Analytics • Business Intelligence
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=1900&height=90&lines=%F0%9F%93%A5+Extracting+and+Standardizing+Data+at+Scale;%E2%9A%A1+Automating+Workflows+with+Power+Query;%F0%9F%93%8A+Analyzing+Retail+Performance+and+KPIs;%F0%9F%93%88+Supporting+Business+Decisions+with+Data;%F0%9F%97%84%EF%B8%8F+Learning+SQL%2C+Python+and+Data+Engineering;%F0%9F%92%A1+Always+Looking+for+Smarter+Ways+to+Work" />
-</p>
+
 
 Transforming data into business decisions.
 
