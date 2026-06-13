@@ -39,7 +39,7 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszpuchacz&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=mateuszpuchacz&show_icons=true&hide_border=true&theme=transparent" />
 </div>
 
 ## 📊 Retail Analytics & Business Intelligence
