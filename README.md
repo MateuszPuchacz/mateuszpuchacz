@@ -1,9 +1,19 @@
 <div align="center">
-
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
 <h3 align="center">
 
 
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:0D1117,30:1E3A8A,70:36BCF7,100:00C6FF&text=DATA%20ANALYTICS&fontColor=FFFFFF&fontSize=65&fontAlign=50&fontAlignY=38&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1200&height=70&lines=Retail+Analytics;Supply+Chain+Analytics;Power+Query+Automation;Power+BI+Dashboards;SQL+%26+Business+Intelligence;Data-Driven+Decision+Making"/>
+
+<br>
 
 <h3>
 Transforming Complex Data Into Actionable Business Insights
@@ -26,7 +36,6 @@ Transforming Complex Data Into Actionable Business Insights
 <img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:36BCF7,50:5B86E5,100:7F5AF0"/>
 
 </div>
-
 ---
 
 
