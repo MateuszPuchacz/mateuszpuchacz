@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header"/>
 
-# Hi, I'm Mateusz 👋
+# Hi, I'm Mateusz Puchacz👋
 
 ### Data Analyst | Retail Analytics | Business Intelligence
 
