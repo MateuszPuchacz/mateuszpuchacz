@@ -46,7 +46,15 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
+<h3>📊 Data Analytics Stack</h3>
 
+<p align="left">
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="55"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="55"/>
+  <img src="https://img.icons8.com/color/96/sql.png" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+</p>
 
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
