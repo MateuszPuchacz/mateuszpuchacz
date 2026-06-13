@@ -1,25 +1,45 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=32&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Mateusz+Puchacz;Retail+Data+Analyst;Supply+Chain+Analytics+%7C+Business+Intelligence"/>
+<table>
+<tr>
 
-<p>
-  <b>Turning retail data into actionable business decisions</b>
-</p>
+<td align="center">
 
-<p>
-  Sales Analytics • Margin Analysis • Inventory Management • Power Query Automation • KPI Reporting
-</p>
+### 📊 Retail Analytics
 
-<img width="70%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:36BCF7,50:1E3A8A,100:217346"/>
+Sales Performance  
+Margin Analysis  
+Product Rotation
 
-<br><br>
+</td>
 
-<img src="https://img.shields.io/badge/65%2B%20Hypermarkets-0D1117?style=for-the-badge&logo=databricks&logoColor=36BCF7"/>
-<img src="https://img.shields.io/badge/Retail%20Analytics-1E3A8A?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supply%20Chain%20BI-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<td align="center">
+
+### 📦 Inventory
+
+Stock Coverage  
+Overstock Risk  
+Availability Control
+
+</td>
+
+<td align="center">
+
+### ⚡ Business Intelligence
+
+Reporting Automation  
+KPI Monitoring  
+Decision Support
+
+</td>
+
+</tr>
+</table>
 
 </div>
+```
+
 ```
 
 
