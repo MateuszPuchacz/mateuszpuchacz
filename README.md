@@ -91,7 +91,7 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 
 📫 **LinkedIn:** [Mateusz Puchacz](https://www.linkedin.com/in/mateusz-puchacz/)
 
-<h2>🛠️ Data Analytics Stack</h2>
+<h2>🛠️Tools & Technologies</h2>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
