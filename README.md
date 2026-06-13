@@ -109,15 +109,7 @@ AS mission;
 ```
 ---
 
-### 🚀 About Me
 
-Currently working in a highly analytical retail role supporting **65+ hypermarkets** across Poland.
-
-My daily work focuses on transforming raw business data into reporting solutions, KPI monitoring and decision support tools.
-
-Beyond my current role, I'm continuously developing my skills in **SQL, Power BI, DAX and Data Modeling**, building projects that move me closer to a full-time **Data Analyst / BI Analyst** career path.
-
-**Passionate about analytics, automation and turning data into business value.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
 
