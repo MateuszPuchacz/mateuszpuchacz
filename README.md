@@ -7,34 +7,55 @@ currently working as a Supply Manager at the Polish headquarters of a French hyp
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
 
----
-I work with retail sales, inventory and supply chain data, building reporting solutions that support business decision making for few deparments.
+
+## 📊 Retail Data Analytics & Reporting
+
+I work with retail sales, inventory and supply chain data, developing reporting solutions that support operational and commercial decision-making across multiple product departments. My work combines business analysis, inventory management and data transformation to improve visibility, efficiency and profitability.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Daily Work
+### 🔹 Daily Work
 
-- Extract, clean and transform data using Power Query
-- Build reporting structures and dashboards
-- Analyze sales performance, margins and product rotation
-- Optimize inventory levels to reduce overstock and stockouts
-- Evaluate promotion performance and business impact
-- Maintain weekly reporting for real-time decision making
+- Extract, clean and transform large retail datasets using Power Query
+- Build structured reporting models and management dashboards
+- Analyze sales performance, margins, stock levels and product rotation
+- Identify risks related to overstock, stock shortages and low sell-through
+- Evaluate promotion performance and commercial impact
+- Maintain weekly reporting used for real-time business decisions
+- Support commercial teams with data-driven recommendations
 
 </td>
 <td width="50%" valign="top">
 
-### My Focus
+### 🔹 Analytical Focus
 
-I design and develop reporting solutions that help commercial teams track KPIs and manage profitability.
-
-My work focuses on data validation, standardization, modeling, resolving inconsistencies and building reliable data foundations for accurate business insights.
+- Data validation, standardization and quality control
+- KPI tracking for sales, margin, inventory and product performance
+- Reliable reporting structures for recurring business analysis
+- Identification of trends, anomalies and performance gaps
+- Translation of business questions into actionable insights
+- Scalable data foundations for accurate decision-making
 
 </td>
 </tr>
 </table>
+
+> Strong business decisions require clean, structured and trustworthy data.
+
+---
+
+## 🚀 Currently Developing
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+</p>
+
+My goal is to fully transition into a Data Analyst role by combining strong retail business knowledge with technical data expertise.
 
 ---
 
