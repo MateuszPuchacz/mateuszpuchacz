@@ -2,12 +2,20 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
 <h3 align="center">
-Retail Analytics • Process Automation • Business Intelligence
-</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=28&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=2200&height=80&lines=Extract;Clean;Transform;Analyze;Automate;Improve" />
-</p>
+
+
+
+<table>
+  <tr>
+    <td align="center"><b>📊 KPI Dashboards</b></td>
+    <td align="center"><b>⚡ ETL Automation</b></td>
+    <td align="center"><b>📦 Stock & Deliveries</b></td>
+    <td align="center"><b>📈 Business Insights</b></td>
+  </tr>
+</table>
+
+<br>
 
 
 
