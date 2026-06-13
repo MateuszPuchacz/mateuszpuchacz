@@ -4,7 +4,6 @@ I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headq
 
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
-```md
 <!-- ========================================================= -->
 <!-- HEADER -->
 <!-- ========================================================= -->
@@ -41,7 +40,7 @@ Turning data into business decisions
 <!-- ========================================================= -->
 <!-- END HEADER -->
 <!-- ========================================================= -->
-```
+
 
 
 
