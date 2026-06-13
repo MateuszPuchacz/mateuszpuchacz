@@ -3,7 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
 <h3 align="center">
 
-
+currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
+In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
 
 
@@ -18,8 +19,6 @@
 
 
 ---
-I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
-In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
 
 
