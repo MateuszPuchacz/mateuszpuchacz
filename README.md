@@ -3,8 +3,38 @@
 I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
 
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
+<!-- ======================= HEADER ======================= -->
 
-<div align="center"> # 📊 Data Analytics • Business Intelligence • Supply Chain <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Retail+Analytics;Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Data-Driven+Decision+Making" /> ### Transforming complex data into actionable business insights </div>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,50:1E3A8A,100:36BCF7&text=DATA%20ANALYTICS&fontColor=FFFFFF&fontSize=58&fontAlign=50&fontAlignY=45&animation=fadeIn&desc=Business%20Intelligence%20%7C%20Retail%20Analytics%20%7C%20Supply%20Chain&descSize=18&descAlign=50&descAlignY=65"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&height=70&lines=Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Retail+%26+Supply+Chain+Insights;Turning+Data+Into+Business+Decisions" />
+
+<br>
+
+### Transforming complex data into clear business decisions
+
+<br>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-36BCF7?style=for-the-badge"/>
+
+<br><br>
+
+📊 Retail Analytics &nbsp;•&nbsp;
+📦 Supply Chain Analytics &nbsp;•&nbsp;
+⚡ Reporting Automation &nbsp;•&nbsp;
+📈 KPI Dashboards
+
+</div>
+
+---
+
+<!-- ======================= END HEADER ======================= -->
 ###  What I do
 
 - Extract, clean and transform data (Power Query)
