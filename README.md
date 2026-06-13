@@ -2,38 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header"/>
 
-<!-- ======================= HEADER ======================= -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,50:1E3A8A,100:36BCF7&text=DATA%20ANALYTICS&fontColor=FFFFFF&fontSize=58&fontAlign=50&fontAlignY=45&animation=fadeIn&desc=Business%20Intelligence%20%7C%20Retail%20Analytics%20%7C%20Supply%20Chain&descSize=18&descAlign=50&descAlignY=65"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&height=70&lines=Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Retail+%26+Supply+Chain+Insights;Turning+Data+Into+Business+Decisions" />
-
-<br>
-
-### Transforming complex data into clear business decisions
-
-<br>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-36BCF7?style=for-the-badge"/>
-
-<br><br>
-
-📊 Retail Analytics &nbsp;•&nbsp;
-📦 Supply Chain Analytics &nbsp;•&nbsp;
-⚡ Reporting Automation &nbsp;•&nbsp;
-📈 KPI Dashboards
-
-</div>
-
----
-
-<!-- ======================= END HEADER ======================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📊_Retail_Analytics-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📦_Supply_Chain-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡_ETL_Automation-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📈_KPI_Dashboards-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🗄️_SQL_Analytics-111827?style=for-the-badge"/>
+</p>
 
 ---
 
