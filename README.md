@@ -1,16 +1,22 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=32&duration=3200&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Data+Analyst;Business+Intelligence;Analytics+Engineering;SQL+%7C+Power+BI+%7C+Power+Query"/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=34&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Sales+Analytics;Inventory+Optimization;Business+Intelligence;Data+Automation"/>
 
-### Transforming business data into reporting solutions, analytics and automation
+<br>
+
+### Supporting 65+ Hypermarkets Through Data
+
+Retail • Supply Chain • Reporting • Decision Support
 
 <br>
 
 <img src="https://img.shields.io/badge/65+-Hypermarkets-1E3A8A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/1M+-Records_Weekly-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data-Analytics-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reporting-Automation-36BCF7?style=for-the-badge"/>
 
 </div>
+```
 
 ---
 
