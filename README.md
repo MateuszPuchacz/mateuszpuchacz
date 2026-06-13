@@ -56,7 +56,11 @@ Beyond my current role, I'm continuously developing my skills in <b>SQL, Power B
 
 </td>
 
+<td width="40%" align="center" valign="middle">
+
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="260"/>
+
+</td>
 
 </td>
 
