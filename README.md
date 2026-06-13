@@ -3,9 +3,8 @@
 I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4ADE80&background=0D1117&center=true&vCenter=true&width=900&lines=%24+whoami;Mateusz+Puchacz;Data+Analyst;Retail+%26+Supply+Chain+Analytics;Power+Query+%7C+Power+BI+%7C+SQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Mateusz+Puchacz;Data+Analyst+%26+Supply+Manager;Retail+Analytics+Specialist;Excel+%7C+Power+Query+%7C+Power+BI;SQL+%7C+Business+Intelligence;Turning+data+into+business+decisions" />
 </p>
-
 
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
