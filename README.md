@@ -5,11 +5,6 @@ I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headq
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
 
-
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:36BCF7,50:5B86E5,100:7F5AF0"/>
 ###  What I do
 
 - Extract, clean and transform data (Power Query)
