@@ -1,10 +1,35 @@
 ## Hi there 👋
 
-<!-- ======================= HEADER ======================= -->
+# 📊 Data Analytics Portfolio
+
+### Turning data into insights, automating processes, and supporting business decisions.
 
 ---
 
-## 📊 DATA ANALYTICS STACK
+## 🚀 About Me
+
+Data Analyst focused on transforming complex business data into clear insights and actionable recommendations.
+
+### Areas of Interest
+
+📦 Supply Chain Analytics  
+📊 Retail Analytics  
+📈 Sales & Inventory Analysis  
+⚡ Process Automation  
+📉 Business Intelligence  
+🗄️ Data Modeling & Reporting
+
+### Current Focus
+
+- Building automated reporting solutions
+- Developing interactive dashboards
+- Improving data quality and reporting processes
+- Expanding SQL and Business Intelligence skills
+- Leveraging AI tools to increase analytical productivity
+
+---
+
+## 🛠️ Data Analytics Stack
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel"/>
@@ -19,7 +44,7 @@ Excel • Power Query • Power BI • SQL • MySQL • SQL Server • GitHub
 
 ---
 
-## 🤖 AI & PRODUCTIVITY
+## 🤖 AI & Productivity
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/openai" width="48" height="48" title="ChatGPT"/>
@@ -32,39 +57,16 @@ ChatGPT • Claude • GitHub Copilot • Canva
 
 ---
 
-## 🎯 SPECIALIZATIONS
+### 💡 Transforming data into actionable insights through analytics, automation, and business-focused reporting.
 
-📦 Supply Chain Analytics  
-📊 Retail Analytics  
-📈 Dashboard Development  
-⚡ Power Query Automation  
-📉 Sales & Inventory Analysis  
-📋 Reporting & Process Improvement
 
----
 
-### 💡 Turning data into insights, automating reports, and supporting business decisions.
 
----
-```
 
----
 
 ---
 I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
-
-
-
----
-```
-
----
-```
-
-
----
----
 
 
 
