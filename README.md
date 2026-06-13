@@ -1,34 +1,3 @@
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-<h3>🚀 About Me</h3>
-
-Currently working in a highly analytical retail role supporting <b>65+ hypermarkets</b> across Poland.
-
-My daily work focuses on transforming raw business data into reporting solutions, KPI monitoring and decision support tools.
-
-Beyond my current role, I'm continuously developing my skills in <b>SQL, Power BI, DAX and Data Modeling</b>, building projects that move me closer to a full-time <b>Data Analyst / BI Analyst</b> career path.
-
-<b>Passionate about analytics, automation and turning data into business value.</b>
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="TUTAJ_GIF" width="100%"/>
-
-</td>
-
-</tr>
-</table>
-
-
-
-
-
-
 
 <div align="center">
 
@@ -75,25 +44,26 @@ Beyond my current role, I'm continuously developing my skills in <b>SQL, Power B
 
 <td width="60%" valign="top">
 
+<h3>🚀 About Me</h3>
 
-### 🚀 About Me
-
-Currently working in a highly analytical retail role supporting **65+ hypermarkets** across Poland.
+Currently working in a highly analytical retail role supporting <b>65+ hypermarkets</b> across Poland.
 
 My daily work focuses on transforming raw business data into reporting solutions, KPI monitoring and decision support tools.
 
-Beyond my current role, I'm continuously developing my skills in **SQL, Power BI, DAX and Data Modeling**, building projects that move me closer to a full-time **Data Analyst / BI Analyst** career path.
+Beyond my current role, I'm continuously developing my skills in <b>SQL, Power BI, DAX and Data Modeling</b>, building projects that move me closer to a full-time <b>Data Analyst / BI Analyst</b> career path.
 
-**Passionate about analytics, automation and turning data into business value.**
-
+<b>Passionate about analytics, automation and turning data into business value.</b>
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
 
-table>
-<tr>
-<td width="55%" valign="top">
+<img src="TUTAJ_GIF" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 
 
