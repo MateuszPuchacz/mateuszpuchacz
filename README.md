@@ -59,7 +59,7 @@ Beyond my current role, I'm continuously developing my skills in **SQL, Power BI
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/<twoj_login>/<repo>/main/assets/dashboard-preview.gif" width="100%"/>
 
 </td>
 
