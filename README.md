@@ -7,9 +7,30 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=1900&height=90&lines=%F0%9F%93%8A+Cleaning%2C+Transforming+and+Analyzing+Data;%E2%9A%A1+Automating+Reporting+and+Business+Processes;%F0%9F%93%88+Building+Dashboards+That+Support+Decisions;%F0%9F%97%84%EF%B8%8F+Exploring+SQL%2C+Data+Modeling+and+Analytics;%F0%9F%92%A1+Turning+Complex+Data+Into+Business+Insights;%F0%9F%93%A6+Retail+Analytics+and+Supply+Chain+Optimization" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00E5FF,50:1E3A8A,100:0D1117&section=header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=2100&height=90&lines=%F0%9F%93%A5+Extracting+and+Standardizing+Data+at+Scale;%E2%9A%A1+Automating+Workflows+with+Power+Query;%F0%9F%93%8A+Analyzing+Retail+Performance+and+KPIs;%F0%9F%93%88+Supporting+Business+Decisions+with+Data;%F0%9F%97%84%EF%B8%8F+Learning+SQL%2C+Python+and+Data+Engineering;%F0%9F%92%A1+Always+Looking+for+Smarter+Ways+to+Work" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data_Cleaning-0D1117?style=for-the-badge&logo=databricks&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/ETL_Automation-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/KPI_Analysis-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Business_Insights-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:1E3A8A,100:00E5FF&section=footer"/>
+
+</div>
+
+---
 
 
 ### 💡 Transforming data into actionable insights through analytics, automation, and business-focused reporting.
