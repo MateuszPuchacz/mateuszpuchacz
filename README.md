@@ -3,11 +3,13 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header"/>
+
 # Hi, I'm Mateusz 👋
 
 ### Data Analyst | Retail Analytics | Business Intelligence
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=1100&height=70&lines=Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Retail+%26+Supply+Chain+Insights;Turning+Data+Into+Business+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=1100&height=70&lines=Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Retail+%26+Supply+Chain+Insights;Turning+Data+Into+Business+Decisions" />
 
 <br>
 
@@ -22,7 +24,7 @@ Transforming millions of retail records into actionable business insights.
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
 
 </div>
 
