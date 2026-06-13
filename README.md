@@ -1,19 +1,73 @@
-
 <div align="center">
- 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
-<h3 align="center">
 
+<h3>Data Analyst | BI Developer in Progress | Retail Analytics</h3>
 
-Data Analyst focused on retail analytics, business intelligence and reporting automation.
+<p>
+I work with retail data at scale, supporting analytical processes for 65+ hypermarkets across Poland.
+My focus is on turning raw business data into clean reporting structures, KPI dashboards and decision-support tools.
+</p>
 
-Currently supporting analytical processes for 65+ hypermarkets while developing expertise in SQL, Power BI, DAX and data modeling.
+</div>
 
-Interested in transforming raw business data into scalable reporting and decision-support systems.
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:36BCF7,50:1E3A8A,100:0D1117"/>
+## About Me
 
-<h2>💻Tools & Technologies</h2>
+I am currently working in a highly analytical retail role, where most of my daily work is based on data, reporting and business decision support.
+
+My main focus areas:
+
+- Retail analytics
+- Sales and inventory analysis
+- Power Query ETL
+- KPI reporting
+- Dashboard development
+- Data quality validation
+- Business Intelligence
+- SQL, Power BI and DAX development
+
+I am actively developing my technical skill set to move deeper into data analytics, BI development and analytics engineering.
+
+---
+
+## Retail Analytics at Scale
+
+My current work is focused on analyzing sales, stock, deliveries and product performance across a large retail network.
+
+Key analytical areas:
+
+- Weekly sales and stock performance analysis
+- Sell-through / resale % monitoring
+- Weeks of Stock analysis
+- Margin and profitability tracking
+- Delivery and replenishment analysis
+- Store and product-level performance comparison
+- YoY analysis
+- Promotion and assortment performance review
+
+Scale of work:
+
+- 65+ hypermarkets supported
+- 1M+ retail records processed weekly
+- Multiple data sources combined into analytical models
+- Automated reporting workflows replacing manual Excel processes
+- Reports used for operational and commercial decision-making
+
+---
+
+## What I Do With Data
+
+- Extract, clean and transform raw data
+- Build reusable reporting structures
+- Automate repetitive Excel workflows with Power Query
+- Create PivotTable-based dashboards and KPI views
+- Validate data quality and detect inconsistencies
+- Analyze business performance by store, category, product and season
+- Translate business problems into analytical logic
+- Support decision-making with clear insights and recommendations
+
 
 <p align="left">
 
