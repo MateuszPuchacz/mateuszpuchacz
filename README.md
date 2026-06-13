@@ -1,11 +1,4 @@
 ## Hi there 👋
-
-I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
-
-In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
-
-
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0D1117,25:1E3A8A,50:36BCF7,75:5B86E5,100:7F5AF0&text=DATA%20ANALYTICS&fontColor=FFFFFF&fontSize=72&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Retail%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Supply%20Chain%20Analytics&descSize=22&descAlign=50&descAlignY=66"/>
@@ -43,6 +36,11 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 <img src="https://github-profile-trophy.vercel.app/?username=mateusz630p&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
+
+I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
+In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
+
+
 
 ---
 ```
