@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Mateusz%20Puchacz&fontSize=40&fontColor=FFFFFF&fontAlignY=35"/>
 
 <h3>Data Analyst • Business Intelligence • Retail Analytics</h3>
-````markdown
+
 ## 💾 explain_my_job.sql
 
 ```sql
