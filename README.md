@@ -67,19 +67,6 @@ Focused on reporting automation, KPI monitoring and transforming large retail da
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%">
-
-### 📊 Retail Sales & Inventory Analysis
-
-Sales, stock coverage, margin and product rotation analysis with Power Query automation.
-
-</td>
-
-<td width="33%">
 
 ### 📈 Electronics Dashboard
 
