@@ -35,6 +35,39 @@
 </p>
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,20,24,30"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Projects-10+-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Years%20of%20Experience-5+-36BCF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Retail%20Analytics-1E3A8A?style=for-the-badge"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/MateuszPuchacz/MateuszPuchacz/main/github-metrics.svg" />
+
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateuszPuchacz&theme=github_dark" />
+</p>
+
+
+<p align="center">
+████████████████████████████████████████
+</p>
+
+
+<p align="center">
+📊 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 📊
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=900&size=34&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=1200&height=90&lines=Extract;Clean;Transform;Analyze;Automate;Improve" />
+</p>
+
+
 
 
 
