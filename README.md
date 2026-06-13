@@ -18,9 +18,6 @@
 Transforming data into business decisions.
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:36BCF7,50:1E3A8A,100:0D1117&text=Turning%20Data%20Into%20Decisions&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=40&animation=fadeIn"/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 
 
