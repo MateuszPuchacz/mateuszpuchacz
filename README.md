@@ -1,49 +1,27 @@
-=
+
 <div align="center">
 
-# 📊 Retail Data Analyst
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=32&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Retail+Data+Analyst;Sales+%26+Inventory+Analytics;Business+Intelligence;Reporting+Automation"/>
 
-<table>
-<tr>
+<br>
 
-<td align="center">
+<p>
+<b>Supporting 65+ Hypermarkets Through Data Analysis</b>
+</p>
 
-### 📈 Sales
+<p>
+Sales • Inventory • Margin • Supply Chain • KPI Reporting
+</p>
 
-Performance  
-Margin  
-Promotion
+<br>
 
-</td>
+<img src="https://img.shields.io/badge/65+-Hypermarkets-1E3A8A?style=for-the-badge"/>
 
-<td align="center">
+<img src="https://img.shields.io/badge/1M+-Records-217346?style=for-the-badge"/>
 
-### 📦 Inventory
-
-Stock  
-Rotation  
-Coverage
-
-</td>
-
-<td align="center">
-
-### ⚡ Analytics
-
-ETL  
-Reporting  
-Automation
-
-</td>
-
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Power+Query+ETL;Business+Intelligence;Supply+Chain+Analytics;KPI+Reporting"/>
+<img src="https://img.shields.io/badge/Retail-Analytics-36BCF7?style=for-the-badge"/>
 
 </div>
-
----
 
 
 
