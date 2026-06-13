@@ -4,6 +4,27 @@
 
 <h3>Data Analyst • Business Intelligence • Retail Analytics</h3>
 
+
+<td width="35%" valign="top">
+
+<h3>🚀 Current Focus</h3>
+
+<ul>
+<li>Retail Analytics</li>
+<li>Business Intelligence</li>
+<li>Power Query ETL</li>
+<li>SQL</li>
+<li>Power BI</li>
+<li>Data Modeling</li>
+</ul>
+
+<p>
+Turning raw business data into actionable insights.
+</p>
+
+</td>
+
+
 ## 💻 Tech Stack
 
 <p align="left">
