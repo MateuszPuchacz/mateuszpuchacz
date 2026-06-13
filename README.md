@@ -92,21 +92,7 @@ Technical_direction:
 ```
 ---
 
-## 📊 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 📦 Retail Sales & Inventory Analysis
-
-End-to-end retail analytics project focused on sales, stock, margin, resale %, YoY performance and business recommendations.
-
-**Main areas:**  
-Power Query ETL • KPI Reporting • Inventory Analytics • Margin Analysis
-
-</td>
-<td width="50%">
 
 ### 📈 Power BI Sales Dashboard
 
