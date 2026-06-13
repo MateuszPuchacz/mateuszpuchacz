@@ -49,11 +49,10 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 ## 🤖 AI & Productivity
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/chatgpt.png" title="ChatGPT"/>
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Claude"/>
- <img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" title="Microsoft Copilot"/>
-  <img src="https://img.icons8.com/color/48/canva.png" title="Canva"/>
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
 </p>
+
+ChatGPT • Claude • Copilot • Canva
 ---
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
