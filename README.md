@@ -56,6 +56,18 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
   <img src="https://img.icons8.com/color/96/mysql-logo.png" width="55"/>
   <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="55"/>
+
+
+  <h3>📊 Data Analytics Stack</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Query-0F9D58?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
   
   
 </p>
