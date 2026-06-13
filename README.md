@@ -63,78 +63,160 @@ Turning raw business data into actionable insights.
 
 
 
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Mateusz%20Puchacz&fontSize=42&fontColor=FFFFFF&fontAlignY=35"/>
 
-## 📊 Retail Analytics & Business Intelligence
+<h2>Data Analytics • Business Intelligence • Reporting Automation</h2>
 
-Currently working with large-scale retail data supporting **65+ hypermarkets** across Poland.
+<p>
+Building data solutions that turn raw business data into clear reporting, KPI monitoring and decision support.
+</p>
 
-My daily work combines business understanding, data transformation and analytical reporting used in operational and commercial decision-making.
+</div>
 
-### What I Do
+---
 
-- Extract, clean and transform retail data using Power Query
-- Build reporting structures and KPI dashboards
-- Analyze sales, inventory, margin and product performance
-- Validate data quality and reconcile inconsistencies
-- Support inventory and replenishment decisions
-- Deliver reporting used by local and international stakeholders
+## 🧠 Data Portfolio
 
-### Areas of Focus
+```yaml
+Profile:
+  Focus: Data Analytics, Business Intelligence, Reporting Automation
+  Industry: Retail / Supply Chain
+  Experience: Large-scale business data analysis
 
-<table>
-<tr>
+Current_work:
+  Scale: 65+ hypermarkets
+  Data_volume: 1M+ records processed weekly
+  Main_areas:
+    - Sales analysis
+    - Inventory analysis
+    - Margin analysis
+    - KPI reporting
+    - Data quality validation
+    - Reporting automation
 
-<td width="33%">
+Technical_direction:
+  - SQL
+  - Power BI
+  - DAX
+  - Python
+  - Data Modeling
+  - Analytics Engineering
+```
 
-#### Data
+---
 
-SQL  
-Power Query  
-Data Modeling  
-Data Validation
-
-</td>
-
-<td width="33%">
-
-#### Analytics
-
-Business Intelligence  
-KPI Reporting  
-Trend Analysis  
-Performance Monitoring
-
-</td>
-
-<td width="33%">
-
-#### Retail
-
-Sales Analytics  
-Inventory Analytics  
-Margin Analysis  
-Supply Analytics
-
-</td>
-
-</tr>
-</table>
-
-<br>
+## 🛠️ Data Analytics Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/65+-Hypermarkets-36BCF7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/1M+-Records%2FWeek-1E3A8A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_Query-ETL-217346?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/KPI-Reporting-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Modeling-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-36BCF7?style=for-the-badge"/>
 
 </p>
 
-> Passionate about transforming raw business data into actionable insights.
+---
 
+## 📊 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📦 Retail Sales & Inventory Analysis
+
+End-to-end retail analytics project focused on sales, stock, margin, resale %, YoY performance and business recommendations.
+
+**Main areas:**  
+Power Query ETL • KPI Reporting • Inventory Analytics • Margin Analysis
+
+</td>
+<td width="50%">
+
+### 📈 Power BI Sales Dashboard
+
+Interactive Power BI report focused on sales performance, revenue trends, YoY analysis and executive-level insights.
+
+**Main areas:**  
+Power BI • DAX • Data Modeling • Business Intelligence
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ Reporting Automation
+
+Excel and Power Query based reporting workflow designed to reduce manual work and improve reporting consistency.
+
+**Main areas:**  
+Power Query • ETL • Data Validation • Process Automation
+
+</td>
+<td width="50%">
+
+### 📉 KPI Performance Reporting
+
+Analytical reporting structure focused on tracking commercial performance and supporting operational decisions.
+
+**Main areas:**  
+KPI Design • Dashboarding • Trend Analysis • Decision Support
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 What I Build
+
+```text
+Data pipelines in Power Query
+Reusable reporting models
+Sales and inventory dashboards
+KPI monitoring tools
+Business performance reports
+Data validation checks
+Executive-level analytical views
+```
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MateuszPuchacz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszPuchacz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MateuszPuchacz&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Turning data into decisions.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,50:1E3A8A,100:36BCF7&section=footer"/>
+
+</div>
 
