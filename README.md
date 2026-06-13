@@ -1,4 +1,13 @@
-<div align="center">
+<p align="center">
+
+<img src="https://img.shields.io/badge/65+-Hypermarkets-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1M+-Records%2FWeek-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-Power%20Query-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Business%20Intelligence-0D1117?style=for-the-badge"/>
+
+</p>
+  
+  <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
 
