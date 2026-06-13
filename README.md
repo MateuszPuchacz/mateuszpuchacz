@@ -29,30 +29,20 @@ Currently working as a Supply Manager in a French retail corporation, supporting
 
 ## 🛠️ Technologies
 
-<div align="center">
+## ⚡ Analytics Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=36BCF7"/>
+<p align="center">
 
-<br>
+<img width="65" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg"/>
+<img width="65" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg"/>
+<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query-1B5E20?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DAX-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Modeling-0D1117?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Retail_Analytics-36BCF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Supply_Chain-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reporting_Automation-36BCF7?style=for-the-badge"/>
-
-</div>
-```
+<p align="center">
+Excel • Power Query • Power BI • SQL • DAX • GitHub
+</p>
 
 
 
