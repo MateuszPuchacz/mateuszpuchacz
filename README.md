@@ -90,25 +90,6 @@ Technical_direction:
   - Data Modeling
   - Analytics Engineering
 ```
-
----
-
-## 🛠️ Data Analytics Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Modeling-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-36BCF7?style=for-the-badge"/>
-
-</p>
-
 ---
 
 ## 📊 Featured Projects
