@@ -7,21 +7,7 @@ currently working as a Supply Manager at the Polish headquarters of a French hyp
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
 
-
 ---
-
-
-### 💡 Transforming data into actionable insights through analytics, automation, and business-focused reporting.
-
-
-
-
-
-
----
-
-
-
 
 ###  What I do
 
@@ -33,7 +19,7 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 - Maintain weekly reporting used for real time decision making
 
 I work closely with the French headquarters, analyzing cross border supply performance and ensuring data consistency across markets.
-
+---
 ### My focus
 
 I design and develop reporting solutions that help commercial teams track KPIs and manage profitability.
