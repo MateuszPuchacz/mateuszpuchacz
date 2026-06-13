@@ -5,7 +5,9 @@
 Retail Analytics • Process Automation • Business Intelligence
 </h3>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=1800&pause=400&color=00E5FF&center=true&vCenter=true&width=2200&height=80&lines=LOADING+SKILLS...;ETL+%E2%9C%93;DATA+ANALYTICS+%E2%9C%93;BUSINESS+INTELLIGENCE+%E2%9C%93;SQL+%E2%9C%93;PYTHON+IN+PROGRESS...;DATA+ENGINEERING+IN+PROGRESS..." />
+</p>
 
 
 
