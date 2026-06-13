@@ -5,23 +5,27 @@
 
 
 
+<h3>
+Transforming Complex Data Into Actionable Business Insights
+</h3>
+
+<br>
+
 <table>
-  <tr>
-    <td align="center"><b>📊 KPI Dashboards</b></td>
-    <td align="center"><b>⚡ ETL Automation</b></td>
-    <td align="center"><b>📦 Stock & Deliveries</b></td>
-    <td align="center"><b>📈 Business Insights</b></td>
-  </tr>
+<tr>
+<td align="center">📊 KPI Dashboards</td>
+<td align="center">⚡ ETL Automation</td>
+<td align="center">📦 Supply Chain</td>
+<td align="center">📈 Retail Analytics</td>
+<td align="center">🗄️ SQL Analytics</td>
+</tr>
 </table>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:7F5AF0,50:36BCF7,100:0D1117&section=footer"/>
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:36BCF7,50:5B86E5,100:7F5AF0"/>
 
 </div>
-
-
-
 
 ---
 
