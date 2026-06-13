@@ -57,52 +57,67 @@ Turning raw business data into actionable insights.
 
 
 
+## 📊 Data Analytics & Business Intelligence
 
+Building analytical solutions that transform complex business data into actionable insights.
 
-## 📊 Retail Analytics & Business Intelligence
-
-Supply Manager working at the Polish headquarters of a French hypermarket chain.
-
-Supporting **65+ hypermarkets** through sales, inventory, margin and supply chain analytics.
+Currently working with large-scale retail datasets supporting **65+ hypermarkets**, focusing on data transformation, reporting automation, KPI monitoring and business intelligence.
 
 <table>
 <tr>
 
 <td width="33%">
 
+### Data
+
+SQL  
+Data Modeling  
+Data Quality  
+ETL
+
+</td>
+
+<td width="33%">
+
 ### Analytics
 
-Retail Analytics  
-Supply Chain Analytics  
-Business Intelligence
+Business Intelligence  
+KPI Reporting  
+Trend Analysis  
+Forecasting
 
 </td>
 
 <td width="33%">
 
-### Reporting
+### Development
 
-Power Query ETL  
-KPI Monitoring  
-Dashboard Development
-
-</td>
-
-<td width="33%">
-
-### Business
-
-Sales Analysis  
-Inventory Optimization  
-Profitability Management
+Power Query  
+Power BI  
+DAX  
+Python
 
 </td>
 
 </tr>
-
-
 </table>
 
-> Strong business decisions require clean, structured and trustworthy data.
+<br>
 
+<p align="center">
 
+<img src="https://img.shields.io/badge/65+-Hypermarkets-36BCF7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/1M+-Records%2FWeek-1E3A8A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-ETL-217346?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Business_Intelligence-0D1117?style=for-the-badge"/>
+
+</p>
+
+<div align="center">
+
+### Turning data into decisions.
+
+</div>
