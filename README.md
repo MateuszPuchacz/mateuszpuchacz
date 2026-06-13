@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qlik-009845?style=flat-square&logo=qlik&logoColor=white"/>
 
 <table>
 <tr>
