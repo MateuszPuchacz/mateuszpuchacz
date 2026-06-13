@@ -97,5 +97,5 @@ Profitability Management
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TWOJ_LOGIN/TWOJ_LOGIN/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/mateuszpuchacz/mateuszpuchacz/output/github-contribution-grid-snake.svg">
 </p>
