@@ -37,10 +37,8 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-</p>
-
 <div align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800"/>
+  <img src="LINK_DO_GIFA.gif" width="700">
 </div>
 
 ## 📊 Retail Analytics & Business Intelligence
