@@ -42,6 +42,13 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 <img src="https://github-readme-stats.vercel.app/api?username=mateuszpuchacz&show_icons=true&hide_border=true&theme=transparent" />
 </div>
 
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="800"/>
+</div>
+
+
 ## 📊 Retail Analytics & Business Intelligence
 
 Supply Manager working at the Polish headquarters of a French hypermarket chain.
