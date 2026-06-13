@@ -9,7 +9,7 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:36BCF7,50:1E3A8A,100:0D1117"/>
 
-<h2>🛠️Tools & Technologies</h2>
+<h2>💻Tools & Technologies</h2>
 
 <p align="left">
 
