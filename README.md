@@ -4,10 +4,6 @@
 
 <h3>Data Analyst • Business Intelligence • Retail Analytics</h3>
 
-
-A pod Twój profil docelowo dałbym:
-
-Core Analytics
 ## 💻 Tech Stack
 
 <p align="left">
