@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square"/>
 <img src="https://img.shields.io/badge/ETL-0D1117?style=flat-square&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qlik-009845?style=flat-square&logo=qlik&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
@@ -41,7 +42,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qlik-009845?style=flat-square&logo=qlik&logoColor=white"/>
 
 <table>
 <tr>
