@@ -4,7 +4,7 @@ I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headq
 
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
-
+<div align="center"> # 📊 Data Analytics • Business Intelligence • Supply Chain <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Retail+Analytics;Power+Query+Automation;Power+BI+Dashboards;SQL+Analytics;Data-Driven+Decision+Making" /> ### Transforming complex data into actionable business insights </div>
 ###  What I do
 
 - Extract, clean and transform data (Power Query)
