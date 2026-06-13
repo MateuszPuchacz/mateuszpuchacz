@@ -45,16 +45,6 @@ I work with retail sales, inventory and supply chain data, developing reporting 
 > Strong business decisions require clean, structured and trustworthy data.
 
 ---
-
-## Currently Developing
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square"/>
-</p>
-
 My goal is to fully transition into a Data Analyst role, combining strong business understanding with technical data expertise.
 
 📫 **LinkedIn:** [Mateusz Puchacz](https://www.linkedin.com/in/mateusz-puchacz/)
