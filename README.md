@@ -37,14 +37,11 @@ My goal is to fully transition into a Data Analyst role, combining strong busine
 
 <h2>🛠️ Data Analytics Stack</h2>
 
-<p align="left">
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="64" height="64" />
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="64" height="64" />
-  <img src="https://img.icons8.com/color/96/sql.png" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" />
-</p>
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 <!--
 **MateuszPuchacz/mateuszpuchacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
