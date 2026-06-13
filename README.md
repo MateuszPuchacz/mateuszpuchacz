@@ -46,19 +46,6 @@ I work with retail sales, inventory and supply chain data, developing reporting 
 
 ---
 
-## 🚀 Currently Developing
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
-</p>
-
-My goal is to fully transition into a Data Analyst role by combining strong retail business knowledge with technical data expertise.
-
----
-
 ## Currently Developing
 
 <p align="left">
