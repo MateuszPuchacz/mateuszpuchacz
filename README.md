@@ -7,23 +7,6 @@
 
 <td width="35%" valign="top">
 
-<h3>🚀 Current Focus</h3>
-
-<ul>
-<li>Retail Analytics</li>
-<li>Business Intelligence</li>
-<li>Power Query ETL</li>
-<li>SQL</li>
-<li>Power BI</li>
-<li>Data Modeling</li>
-</ul>
-
-<p>
-Turning raw business data into actionable insights.
-</p>
-
-</td>
-
 
 ## 💻 Tech Stack
 
@@ -61,44 +44,15 @@ Turning raw business data into actionable insights.
 <td width="60%" valign="top">
 
 
-SELECT
-    'Supply Manager'        AS role_title,
-    'Retail Data Analyst'   AS actual_role,
-    '65+ Hypermarkets'      AS business_scope,
-    '1M+ Records Weekly'    AS data_volume;
+### 🚀 About Me
 
-SELECT responsibility
-FROM daily_work
-WHERE responsibility IN
-(
-    'Data Extraction',
-    'Data Cleaning',
-    'Data Transformation',
-    'Power Query ETL',
-    'Data Validation',
-    'Data Modeling',
-    'KPI Reporting',
-    'Sales Analytics',
-    'Inventory Analytics',
-    'Margin Analysis',
-    'Dashboard Development',
-    'Reporting Automation',
-    'Business Intelligence'
-);
+Currently working in a highly analytical retail role supporting **65+ hypermarkets** across Poland.
 
-SELECT stakeholder
-FROM business_environment
-WHERE stakeholder IN
-(
-    'Commercial Teams',
-    'Supply Chain Teams',
-    'Store Coordinators',
-    'French Headquarters'
-);
+My daily work focuses on transforming raw business data into reporting solutions, KPI monitoring and decision support tools.
 
-SELECT
-    'Turning Retail Data Into Business Decisions'
-AS mission;
+Beyond my current role, I'm continuously developing my skills in **SQL, Power BI, DAX and Data Modeling**, building projects that move me closer to a full-time **Data Analyst / BI Analyst** career path.
+
+**Passionate about analytics, automation and turning data into business value.**
 
 
 </td>
