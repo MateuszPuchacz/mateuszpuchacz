@@ -4,9 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
 
 <h3 align="center">
-Data Analyst | Supply Manager | BI Enthusiast
+Retail Analytics • Process Automation • Business Intelligence
 </h3>
-
 
 
 
