@@ -26,35 +26,34 @@ Currently working as a Supply Manager in a French retail corporation, supporting
 
 ---
 
-## Tech Stack
 
-<p>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github,mysql"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=36BCF7"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-1B5E20?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query-0F9D58?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Retail_Analytics-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Supply_Chain-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Modeling-0D1117?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Retail_Analytics-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supply_Chain-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reporting_Automation-36BCF7?style=for-the-badge"/>
 
 </div>
 ```
+
 
 
 [LinkedIn](https://www.linkedin.com/in/mateusz-puchacz)
