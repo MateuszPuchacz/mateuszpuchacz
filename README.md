@@ -1,93 +1,168 @@
 
 <div align="center">
 
-# 📊 DATA ANALYTICS PORTFOLIO
+# 📊 Data Analytics Portfolio
 
 <table>
 <tr>
+<td align="center" width="25%">
 
-<td align="center" width="180">
-
-### 🏪
-
-Retail
-
+### 🏪 Retail
 65+ Hypermarkets
 
 </td>
+<td align="center" width="25%">
 
-<td align="center" width="180">
-
-### 📈
-
-Analytics
-
+### 📈 Analytics
 1M+ Records Weekly
 
 </td>
+<td align="center" width="25%">
 
-<td align="center" width="180">
-
-### ⚡
-
-Automation
-
+### ⚡ Automation
 Power Query ETL
 
 </td>
+<td align="center" width="25%">
 
-<td align="center" width="180">
-
-### 📊
-
-Business Intelligence
-
-Reporting & KPIs
+### 🧠 BI
+Reports & KPIs
 
 </td>
-
 </tr>
 </table>
 
-</div>
-```
+### Data Analyst focused on Business Intelligence, SQL and Analytics Engineering
 
-```
+Transforming business data into reporting solutions, insights and automation.
+
+</div>
 
 ---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ## 👨‍💻 About Me
 
-Currently working at the Polish headquarters of a French retail corporation.
+Currently working at the Polish headquarters of a French retail corporation, supporting **65+ hypermarkets** through sales, inventory, margin and supply chain analytics.
 
-My work combines analytics, reporting, automation and business decision support across sales, inventory, margin and supply chain operations.
+My work combines business understanding, data transformation, reporting automation and KPI monitoring. I use my current retail analytics experience as a foundation to move deeper into **SQL, BI, Python and Data Engineering**.
 
-I enjoy building reporting solutions, improving data quality and transforming raw business data into actionable insights.
+---
+
+## 🛠️ Data Analytics Stack
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+## 🎯 Analytics Focus
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### Sales
+Performance analysis  
+YoY comparison  
+Promotion impact  
 
 </td>
+<td width="25%" valign="top">
 
-<td width="50%" valign="top">
-
-## 🎯 Current Focus
-
-- Business Intelligence
-- Retail Analytics
-- Supply Chain Analytics
-- Reporting Automation
-- Data Modeling
-- KPI Reporting
-- SQL Development
-- Analytics Engineering
+### Inventory
+Stock monitoring  
+Product rotation  
+Overstock risk  
 
 </td>
+<td width="25%" valign="top">
 
+### BI
+KPI reporting  
+Dashboards  
+Decision support  
+
+</td>
+<td width="25%" valign="top">
+
+### Data
+Power Query ETL  
+SQL learning  
+Data modeling  
+
+</td>
 </tr>
 </table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 Weekly Retail Sales & Inventory Analysis
+
+**Excel • Power Query • Retail Analytics**
+
+Sales, inventory, margin and product rotation analysis with automated reporting workflow.
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 Electronics Sales Dashboard
+
+**Power BI • DAX • KPI Reporting**
+
+Interactive dashboard focused on sales performance, YoY analysis and business insights.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 Supermarket Sales Analysis
+
+**Power BI • Data Modeling • BI**
+
+Business Intelligence project with DAX measures, data model and executive reporting.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 Contact
+
+<a href="https://www.linkedin.com/in/mateusz-puchacz/">
+<img src="https://img.shields.io/badge/LinkedIn-Mateusz%20Puchacz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+```
+
+
 
 ---
 
