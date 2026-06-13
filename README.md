@@ -3,18 +3,17 @@
 I’m Mateusz Puchacz, currently working as a Supply Manager at the Polish headquarters of a French hypermarket chain.
 <img width="100%" src="YOUR_BANNER_IMAGE_URL_HERE"/>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&height=80&lines=Retail+Analytics;Supply+Chain+Analytics;Power+Query+Automation;Power+BI+Dashboards;SQL+%26+Business+Intelligence" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=38&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1400&height=90&lines=Retail+Analytics;Supply+Chain+Analytics;Power+BI+%7C+SQL+%7C+Excel;Power+Query+Automation;Data-Driven+Decision+Making" />
+  <b>Turning data into business decisions</b>
 </p>
 
 <p align="center">
-  <i>Transforming complex data into actionable business insights</i>
+  <img src="https://komarev.com/ghpvc/?username=mateusz630p&label=Profile+Views&color=36BCF7&style=flat-square" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Data%20Analytics-36BCF7?style=for-the-badge"/>
-</p>
-
 
 In practice, my role is fully analytical, 100% of my work is based on data supporting around 65 hypermarkets nationwide.
 
