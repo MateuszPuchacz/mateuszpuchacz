@@ -5,6 +5,9 @@
 Retail Analytics • Process Automation • Business Intelligence
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=28&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=1800&height=90&lines=Data+Analytics;Business+Intelligence;Process+Automation;Data+Engineering;SQL;Python;Retail+Analytics;Supply+Chain+Analytics" />
+</p>
 
 <h3 align="center">
 Data Analyst | Supply Manager | BI Enthusiast
