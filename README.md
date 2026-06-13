@@ -11,6 +11,29 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
+
+### Data Analyst • Supply Manager
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=900&size=30&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=1800&height=90&lines=%F0%9F%93%A5+Extracting+and+Standardizing+Data;%E2%9A%A1+Building+Automated+ETL+Workflows;%F0%9F%93%8A+Analyzing+Retail+Performance;%F0%9F%93%88+Creating+Decision-Support+Dashboards;%F0%9F%97%84%EF%B8%8F+Learning+SQL+and+Data+Engineering;%F0%9F%92%A1+Turning+Data+Into+Business+Value" />
+</p>
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+
+
+
+
+
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
 
 ### Data Analyst • Retail Analytics • Business Intelligence
