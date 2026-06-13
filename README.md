@@ -38,11 +38,6 @@ In practice, my role is fully analytical, 100% of my work is based on data suppo
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 <div align="center">
-  <img src="LINK_DO_GIFA.gif" width="700">
-</div>
-
-
-<div align="center">
 <img src="images/dashboard_preview.png" width="900"/>
 </div>
 
