@@ -7,13 +7,6 @@
 </p>
 
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00E5FF,50:1E3A8A,100:0D1117&section=header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=2100&height=90&lines=%F0%9F%93%A5+Extracting+and+Standardizing+Data+at+Scale;%E2%9A%A1+Automating+Workflows+with+Power+Query;%F0%9F%93%8A+Analyzing+Retail+Performance+and+KPIs;%F0%9F%93%88+Supporting+Business+Decisions+with+Data;%F0%9F%97%84%EF%B8%8F+Learning+SQL%2C+Python+and+Data+Engineering;%F0%9F%92%A1+Always+Looking+for+Smarter+Ways+to+Work" />
-
-<br>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
