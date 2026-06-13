@@ -65,27 +65,6 @@ Focused on reporting automation, KPI monitoring and transforming large retail da
 
 </p>
 
----
-
-
-### 📈 Electronics Dashboard
-
-Power BI dashboard focused on KPI monitoring and business performance.
-
-</td>
-
-<td width="33%">
-
-### 🛒 Supermarket BI Analysis
-
-Data modeling, DAX measures and executive reporting.
-
-</td>
-
-</tr>
-</table>
-
----
 
 ## 📫 Connect
 
