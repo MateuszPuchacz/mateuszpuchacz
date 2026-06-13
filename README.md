@@ -39,7 +39,7 @@ Currently working as a Supply Manager in a French retail corporation, supporting
 
 </p>
 
-
+## ⚡ Tech Stack <div align="center"> <img src="https://skillicons.dev/icons?i=github,mysql&theme=dark"/> <br><br> <table> <tr> <td align="center"> <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <br>SQL </td> <td align="center"> <img width="60" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg"/> <br>Power BI </td> <td align="center"> <img width="60" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg"/> <br>Excel </td> <td align="center"> <img width="60" src="https://www.svgrepo.com/show/373589/excel.svg"/> <br>Power Query </td> <td align="center"> <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <br>GitHub </td> </tr> </table> </div>
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/mateusz-puchacz)
