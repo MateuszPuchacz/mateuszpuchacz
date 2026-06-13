@@ -3,13 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📊_Retail_Analytics-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📦_Supply_Chain-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_ETL_Automation-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📈_KPI_Dashboards-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🗄️_SQL_Analytics-111827?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2200&pause=800&color=36BCF7&center=true&vCenter=true&width=1400&height=80&lines=%F0%9F%93%8A+Analyzing+Millions+of+Retail+Records;%F0%9F%93%A6+Supply+Chain+Optimization;%E2%9A%A1+Power+Query+Automation;%F0%9F%93%88+Power+BI+Dashboards;%F0%9F%97%84%EF%B8%8F+SQL+Analytics;%F0%9F%92%A1+Turning+Data+Into+Business+Decisions" />
 </p>
-
 ---
 
 ---
