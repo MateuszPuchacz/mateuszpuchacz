@@ -37,10 +37,25 @@ Currently working as a Supply Manager in a French retail corporation, supporting
 <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-</p>
 
-## ⚡ Tech Stack <div align="center"> <img src="https://skillicons.dev/icons?i=github,mysql&theme=dark"/> <br><br> <table> <tr> <td align="center"> <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <br>SQL </td> <td align="center"> <img width="60" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg"/> <br>Power BI </td> <td align="center"> <img width="60" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg"/> <br>Excel </td> <td align="center"> <img width="60" src="https://www.svgrepo.com/show/373589/excel.svg"/> <br>Power Query </td> <td align="center"> <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <br>GitHub </td> </tr> </table> </div>
-## Contact
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github,mysql"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-0F9D58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retail_Analytics-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supply_Chain-36BCF7?style=for-the-badge"/>
+
+</div>
+```
+
 
 [LinkedIn](https://www.linkedin.com/in/mateusz-puchacz)
 
