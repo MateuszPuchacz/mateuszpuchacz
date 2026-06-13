@@ -70,6 +70,7 @@ Turning raw business data into actionable insights.
 
 <img src="https://streak-stats.demolab.com?user=MateuszPuchacz&theme=tokyonight&hide_border=true"/>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MateuszPuchacz&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
