@@ -17,14 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
-<br><br>
 
-<img src="https://img.shields.io/badge/Data_Cleaning-0D1117?style=for-the-badge&logo=databricks&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/ETL_Automation-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/KPI_Analysis-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Business_Insights-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384"/>
-
-<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:1E3A8A,100:00E5FF&section=footer"/>
 
@@ -49,15 +42,6 @@
 </p>
 
 
-
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<p align="center">
-⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡
-</p>
 
 
 
