@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:36BCF7,50:1E3A8A,100:0D1117&section=header&text=Hi,+I'm+Mateusz+Puchacz+👋&fontSize=32&fontColor=FFFFFF&fontAlignY=35"/>
