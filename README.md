@@ -50,11 +50,9 @@
 
 <h3>🗨️  About Me</h3>
 
-Supporting **65+ hypermarkets** through data driven analysis, KPI reporting and business intelligence solutions.
-Focused on transforming raw data into actionable insights using Power Query, SQL and analytical thinking.
-Currently developing my skills in **SQL, Power BI, DAX and Data Modeling**, with a clear goal of growing into a full time **Data Analyst / BI Analyst** role.
-<b>Passionate about analytics, automation and turning data into business value.</b>
-
+Working with large retail datasets supporting 65+ hypermarkets across Poland. My work focuses on data extraction, transformation, automation and analytical reporting, helping convert operational data into decision-ready information.
+Currently developing skills in SQL, Python, Power BI, Data Modeling and cloud-based data technologies, with a strong interest in Data Engineering, Machine Learning and AI applications.
+I enjoy building scalable data solutions, automating repetitive processes and solving business problems through technology and data.</b>
 </td>
 
 <td width="40%" align="center" valign="middle">
