@@ -50,9 +50,9 @@
 
 <h3>🗨️  About Me</h3>
 
-Working with large retail datasets supporting 65+ hypermarkets across Poland. My work focuses on data extraction, transformation, automation and analytical reporting, helping convert operational data into decision ready information.
-Currently developing skills in Power BI, SQL, Python, Data Modeling and cloud based data technologies, with a strong interest in Data Engineering, Machine Learning and AI applications.
-I enjoy building scalable data solutions, automating repetitive processes and solving business problems through technology and data.</b>
+I work with large retail datasets, ETL processes and analytical reporting supporting 65+ hypermarkets nationwide.
+My daily work combines data transformation, automation, data quality validation and business analytics. By implementing Power Query based ETL solutions, I helped eliminate repetitive manual processes and significantly reduce reporting effort across the department.
+Currently expanding my expertise in SQL, Python, Data Modeling, Data Engineering and AI. My goal is to build scalable data solutions that connect business needs with modern analytics and automation technologies.</b>
 </td>
 
 <td width="40%" align="center" valign="middle">
