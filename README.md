@@ -6,8 +6,7 @@
 <td width="35%" valign="top">
 
 <div align="center">
-
-
+  
 <h3>
   📊 Data Analytics • ⚙️ Automation • 💡 Business Intelligence
 </h3>
