@@ -56,7 +56,8 @@ Currently expanding my expertise in SQL, Python, Data Modeling, Data Engineering
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+<img src="https://media3.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif" width="100%"/>
 </td>
 
 </td>
