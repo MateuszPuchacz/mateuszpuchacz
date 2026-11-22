@@ -49,7 +49,7 @@
 
 <h3>🗨️  About Me</h3>
 
-I work with large retail datasets, ETL processes and analytical reporting supporting 65+ hypermarkets nationwide.
+Normaly I work in Poland. I work with large retail datasets, ETL processes and analytical reporting supporting 65+ hypermarkets nationwide.
 My daily work combines data transformation, automation, data quality validation and business analytics. By implementing Power Query based ETL solutions, I helped eliminate repetitive manual processes and significantly reduce reporting effort across the department.
 Currently expanding my expertise in SQL, Python, Data Modeling, Data Engineering and AI. My goal is to build scalable data solutions that connect business needs with modern analytics and automation technologies.</b>
 </td>
